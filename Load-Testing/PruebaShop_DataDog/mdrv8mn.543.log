@@ -1,0 +1,336 @@
+Start auto log messages stack - Iteration 1.
+t=00075200ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00076002ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00078062ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00078923ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00080488ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00081297ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00101567ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 1.
+t=00127971ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00128703ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00130753ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00131799ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00133163ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00133968ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00154184ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 4.
+t=00140939ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00141769ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00143826ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00144633ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00145909ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00146717ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00166938ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 4 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 2.
+t=00147388ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00148203ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00150296ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00151086ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00152436ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00153243ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00173766ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 2 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 4.
+t=00154112ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00154917ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00156982ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00157780ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00158905ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00159709ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00180404ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 4 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 2.
+t=00178742ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00179557ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00181764ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00182544ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00184865ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00185661ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00205859ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 2 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 2.
+t=00180948ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00181838ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00183870ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00184877ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00186919ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00187711ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00207976ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 2 1]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 5.
+t=00194395ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00195212ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00197274ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00198084ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00199391ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00200258ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00220471ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 5 1]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 5.
+t=00205633ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00206446ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00208494ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00209421ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00211425ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00211960ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00232121ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 5 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 3.
+t=00236020ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00236844ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00238920ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00239734ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00241035ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00241846ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00262001ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 3 1]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 6.
+t=00246989ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00247851ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00250010ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00250817ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00252463ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00253286ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00273593ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 6 1]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 6.
+t=00250537ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00251347ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00253427ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00254262ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00255723ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00256572ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00276721ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 6 2]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 5.
+t=00278797ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00279634ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00282062ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00282880ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00285097ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00285943ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00306402ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 5 1]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 4.
+t=00290531ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00291465ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00293540ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00294579ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00296141ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00296960ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00317187ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 4 2]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 7.
+t=00301008ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00301798ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00303846ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00304687ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00306483ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00307296ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00327468ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 7 2]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 7.
+t=00312181ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00312995ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00315033ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00315845ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00317374ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00318195ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00338443ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 7 1]    [MsgId: MERR-205177]
+Start auto log messages stack - Iteration 7.
+t=00312877ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00313689ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00315738ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00316554ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00317711ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00318519ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00338699ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 7 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 8.
+t=00329445ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00330250ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00332285ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00333092ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00334704ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00335519ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00355703ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 8 1]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 6.
+t=00345447ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00346252ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00348401ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00349919ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00352482ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00352685ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00372751ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 6 2]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 8.
+t=00353940ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00354792ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00356834ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00357695ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00360629ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00361097ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00381288ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 8 3]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 7.
+t=00368697ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00369501ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00371538ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00372345ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00373530ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00374361ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00394841ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 7 2]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 7.
+t=00416978ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00417979ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00420213ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00420982ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00422404ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00423207ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00443384ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 7 3]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 10.
+t=00423098ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00423902ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00425953ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00426764ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00428299ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00429118ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00449264ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 10 2]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 8.
+t=00424079ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00424893ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00426936ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00427749ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00429380ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00430190ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00450419ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 8 3]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 10.
+t=00435951ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00436754ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00438791ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00439607ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00441264ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00442062ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00462228ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 10 2]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 8.
+t=00437109ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00437920ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00439963ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00440773ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00442202ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00443006ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00463183ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 8 3]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 10.
+t=00437829ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00438638ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00440680ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00441492ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00443141ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00443958ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00464105ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 10 1]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 9.
+t=00487843ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00488659ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00490706ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00491516ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00492921ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00493730ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00513874ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 9 4]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
