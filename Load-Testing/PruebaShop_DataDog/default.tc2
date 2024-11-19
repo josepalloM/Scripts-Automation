@@ -1,0 +1,2399 @@
+{
+  "meta": {
+    "engineVersion": "2024.3.0.164",
+    "platform": "Chrome 131.0.6778.70",
+    "timestamp": "Tue Nov 19 2024 09:21:03 GMT-0500 (hora de Ecuador)"
+  },
+  "default": {
+    "level": 1,
+    "actions": [
+      {
+        "id": "00000000-0000-0000-0000-Init",
+        "name": "Init",
+        "type": 1,
+        "steps": []
+      },
+      {
+        "id": "00000000-0000-0000-0000-Action",
+        "name": "Action",
+        "type": 1,
+        "steps": [
+          {
+            "id": "46a98ecf-9ffa-15d8-8c89-b80f8e3cfd86",
+            "type": 8,
+            "level": 100,
+            "disabled": false,
+            "endEvent": 2,
+            "name": "Trx01-URL",
+            "action": 1
+          },
+          {
+            "id": "a7c976c3-5d08-1030-21c0-18ecc3ff1ac1",
+            "type": 3,
+            "level": 1,
+            "disabled": false,
+            "breakpoint": false,
+            "endEvent": 5,
+            "arguments": [
+              {
+                "name": "location",
+                "type": 1,
+                "value": "http://34.134.200.203/"
+              }
+            ],
+            "action": 100,
+            "recDuration": 2
+          },
+          {
+            "id": "09762a43-e423-eb6e-77d7-bb1ee04a8a48",
+            "type": 8,
+            "level": 100,
+            "disabled": false,
+            "endEvent": 2,
+            "name": "Trx01-URL",
+            "action": 2
+          },
+          {
+            "id": "8a681cf5-720f-37d4-f509-e23a44a497c1",
+            "type": 8,
+            "level": 100,
+            "disabled": false,
+            "endEvent": 2,
+            "name": "Trx02-Product-One",
+            "action": 1
+          },
+          {
+            "id": "d483e3f9-ea2f-f48b-0f17-8987b5a4d579",
+            "type": 2,
+            "level": 1,
+            "disabled": false,
+            "endEvent": 5,
+            "testObjectsRef": [
+              "3db721a2-88bf-e9bd-d8d4-6577c01ae3e5"
+            ],
+            "arguments": [
+              {
+                "name": "button",
+                "type": 1,
+                "value": "1"
+              },
+              {
+                "name": "xCoordinate",
+                "type": 1,
+                "value": "252"
+              },
+              {
+                "name": "yCoordinate",
+                "type": 1,
+                "value": "325"
+              },
+              {
+                "name": "hasCtrlKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "hasAltKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "hasShiftKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "useCoordinates",
+                "type": 1,
+                "value": ""
+              }
+            ],
+            "action": 1,
+            "recDuration": 7
+          },
+          {
+            "id": "c93120e2-c773-0c15-db7d-bee9e1364202",
+            "type": 8,
+            "level": 100,
+            "disabled": false,
+            "endEvent": 2,
+            "name": "Trx02-Product-One",
+            "action": 2
+          },
+          {
+            "id": "e1e79048-da62-46a9-6380-9e1f4fc94abb",
+            "type": 8,
+            "level": 100,
+            "disabled": false,
+            "endEvent": 2,
+            "name": "Trx03-Add-To-Car",
+            "action": 1
+          },
+          {
+            "id": "446f42e1-b9e7-52ac-ac23-30e8fe1e2d28",
+            "type": 2,
+            "level": 1,
+            "disabled": false,
+            "endEvent": 5,
+            "testObjectsRef": [
+              "671c55ae-9633-ee59-1eef-49c122784449"
+            ],
+            "arguments": [
+              {
+                "name": "button",
+                "type": 1,
+                "value": "1"
+              },
+              {
+                "name": "xCoordinate",
+                "type": 1,
+                "value": "61"
+              },
+              {
+                "name": "yCoordinate",
+                "type": 1,
+                "value": "28"
+              },
+              {
+                "name": "hasCtrlKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "hasAltKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "hasShiftKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "useCoordinates",
+                "type": 1,
+                "value": ""
+              }
+            ],
+            "action": 1,
+            "recDuration": 2
+          },
+          {
+            "id": "02924285-2831-0395-7cc4-5d7b019974fc",
+            "type": 8,
+            "level": 100,
+            "disabled": false,
+            "endEvent": 2,
+            "name": "Trx03-Add-To-Car",
+            "action": 2
+          },
+          {
+            "id": "bd42d107-565c-16e4-b91b-81e24343d5ab",
+            "type": 2,
+            "level": 1,
+            "disabled": false,
+            "endEvent": 5,
+            "testObjectsRef": [
+              "e1678d1e-d4b9-2591-83b0-7eea92e6c3a1"
+            ],
+            "arguments": [
+              {
+                "name": "button",
+                "type": 1,
+                "value": "1"
+              },
+              {
+                "name": "xCoordinate",
+                "type": 1,
+                "value": "44"
+              },
+              {
+                "name": "yCoordinate",
+                "type": 1,
+                "value": "23"
+              },
+              {
+                "name": "hasCtrlKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "hasAltKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "hasShiftKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "useCoordinates",
+                "type": 1,
+                "value": ""
+              }
+            ],
+            "action": 1,
+            "recDuration": 5
+          },
+          {
+            "id": "8630fcda-504b-3187-377d-6e3be0a07e6d",
+            "type": 5,
+            "level": 1,
+            "disabled": false,
+            "endEvent": 2,
+            "arguments": [
+              {
+                "name": "duration",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "unit",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "thinkTime",
+                "type": 1,
+                "value": ""
+              }
+            ]
+          },
+          {
+            "id": "d1fdc6f7-aa6b-993c-afcf-bf02f5ed05f4",
+            "type": 8,
+            "level": 100,
+            "disabled": false,
+            "endEvent": 2,
+            "name": "Trx04-Product-Two",
+            "action": 1
+          },
+          {
+            "id": "f95a077d-3880-a5f5-0ee4-91d7a7a87605",
+            "type": 2,
+            "level": 1,
+            "disabled": false,
+            "endEvent": 5,
+            "testObjectsRef": [
+              "533e1afc-97fb-e23b-4492-82cb2cee7f07"
+            ],
+            "arguments": [
+              {
+                "name": "button",
+                "type": 1,
+                "value": "1"
+              },
+              {
+                "name": "xCoordinate",
+                "type": 1,
+                "value": "189"
+              },
+              {
+                "name": "yCoordinate",
+                "type": 1,
+                "value": "331"
+              },
+              {
+                "name": "hasCtrlKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "hasAltKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "hasShiftKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "useCoordinates",
+                "type": 1,
+                "value": ""
+              }
+            ],
+            "action": 1
+          },
+          {
+            "id": "d593ee9d-0677-44ed-abb5-345e333233d6",
+            "type": 8,
+            "level": 100,
+            "disabled": false,
+            "endEvent": 2,
+            "name": "Trx04-Product-Two",
+            "action": 2
+          },
+          {
+            "id": "c4676513-8249-a4bf-a63a-75ba1ceaf924",
+            "type": 6,
+            "level": 1,
+            "disabled": false,
+            "endEvent": 2,
+            "steps": [
+              {
+                "id": "faf2d1a4-aa04-e309-f5d8-9342c746b7b8",
+                "type": 2,
+                "level": 100,
+                "disabled": false,
+                "endEvent": 2,
+                "testObjectsRef": [
+                  "5f4023b6-d895-68a6-dcf8-a2dc2d2f2f83"
+                ],
+                "arguments": [
+                  {
+                    "name": "text",
+                    "type": 1,
+                    "value": "10"
+                  },
+                  {
+                    "name": "ordinal",
+                    "type": 1,
+                    "value": ""
+                  }
+                ],
+                "action": 10,
+                "recDuration": 1
+              },
+              {
+                "id": "7deda310-b75d-96d9-7d31-949be3af9f81",
+                "type": 2,
+                "level": 100,
+                "disabled": false,
+                "endEvent": 1,
+                "testObjectsRef": [
+                  "5f4023b6-d895-68a6-dcf8-a2dc2d2f2f83"
+                ],
+                "arguments": [
+                  {
+                    "name": "text",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "name": "ordinal",
+                    "type": 1,
+                    "value": "6"
+                  }
+                ],
+                "action": 10,
+                "recDuration": 1
+              }
+            ],
+            "activeStep": 0,
+            "recDuration": 1
+          },
+          {
+            "id": "351c4deb-87ba-65a3-c646-bed2c89848b8",
+            "type": 8,
+            "level": 100,
+            "disabled": false,
+            "endEvent": 2,
+            "name": "Trx05-Add-To-Car-Two",
+            "action": 1
+          },
+          {
+            "id": "78b0a281-14fd-ddeb-3bd4-44d64fbb691e",
+            "type": 2,
+            "level": 1,
+            "disabled": false,
+            "endEvent": 5,
+            "testObjectsRef": [
+              "acd54ae8-b40d-870e-9780-5ccce0c172bb"
+            ],
+            "arguments": [
+              {
+                "name": "button",
+                "type": 1,
+                "value": "1"
+              },
+              {
+                "name": "xCoordinate",
+                "type": 1,
+                "value": "36"
+              },
+              {
+                "name": "yCoordinate",
+                "type": 1,
+                "value": "21"
+              },
+              {
+                "name": "hasCtrlKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "hasAltKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "hasShiftKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "useCoordinates",
+                "type": 1,
+                "value": ""
+              }
+            ],
+            "action": 1,
+            "recDuration": 9
+          },
+          {
+            "id": "3a676414-2988-5305-5a9d-05a1e70b27cc",
+            "type": 8,
+            "level": 100,
+            "disabled": false,
+            "endEvent": 2,
+            "name": "Trx05-Add-To-Car-Two",
+            "action": 2
+          },
+          {
+            "id": "bdd274cb-993f-7e44-4f50-a4e55b2c06cd",
+            "type": 6,
+            "level": 1,
+            "disabled": false,
+            "endEvent": 2,
+            "steps": [
+              {
+                "id": "f86e39a1-55d5-00e4-6ae2-b1c7ccdabb41",
+                "type": 2,
+                "level": 100,
+                "disabled": false,
+                "endEvent": 2,
+                "testObjectsRef": [
+                  "2b3ecc55-2a0b-7306-826c-9a3d5f42970b"
+                ],
+                "arguments": [
+                  {
+                    "name": "text",
+                    "type": 1,
+                    "value": "January"
+                  },
+                  {
+                    "name": "ordinal",
+                    "type": 1,
+                    "value": ""
+                  }
+                ],
+                "action": 10,
+                "recDuration": 3
+              },
+              {
+                "id": "a9bdc0c5-d5ea-23d5-7e76-62c5783b6ce3",
+                "type": 2,
+                "level": 100,
+                "disabled": false,
+                "endEvent": 1,
+                "testObjectsRef": [
+                  "2b3ecc55-2a0b-7306-826c-9a3d5f42970b"
+                ],
+                "arguments": [
+                  {
+                    "name": "text",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "name": "ordinal",
+                    "type": 1,
+                    "value": "12"
+                  }
+                ],
+                "action": 10,
+                "recDuration": 3
+              }
+            ],
+            "activeStep": 0,
+            "recDuration": 3
+          },
+          {
+            "id": "bd07f528-9fb2-3c49-aead-15ae17a24899",
+            "type": 6,
+            "level": 1,
+            "disabled": false,
+            "endEvent": 2,
+            "steps": [
+              {
+                "id": "cea5703b-7746-68f5-c219-ff6a7aeec659",
+                "type": 2,
+                "level": 100,
+                "disabled": false,
+                "endEvent": 3,
+                "testObjectsRef": [
+                  "c4e866c6-26fe-38d3-085f-3fb042306047"
+                ],
+                "arguments": [
+                  {
+                    "name": "text",
+                    "type": 1,
+                    "value": "2027"
+                  },
+                  {
+                    "name": "ordinal",
+                    "type": 1,
+                    "value": ""
+                  }
+                ],
+                "action": 10,
+                "recDuration": 1
+              },
+              {
+                "id": "3fb31858-8ee9-fcc1-881c-2099855990e2",
+                "type": 2,
+                "level": 100,
+                "disabled": false,
+                "endEvent": 1,
+                "testObjectsRef": [
+                  "c4e866c6-26fe-38d3-085f-3fb042306047"
+                ],
+                "arguments": [
+                  {
+                    "name": "text",
+                    "type": 1,
+                    "value": ""
+                  },
+                  {
+                    "name": "ordinal",
+                    "type": 1,
+                    "value": "4"
+                  }
+                ],
+                "action": 10,
+                "recDuration": 1
+              }
+            ],
+            "activeStep": 0,
+            "recDuration": 1
+          },
+          {
+            "id": "f4dc9c6e-5c22-a9f4-2d84-aba67836eae4",
+            "type": 8,
+            "level": 100,
+            "disabled": false,
+            "endEvent": 2,
+            "name": "Trx06-Pay",
+            "action": 1
+          },
+          {
+            "id": "bc8111cb-300a-c30c-93c6-9eba4decf744",
+            "type": 2,
+            "level": 1,
+            "disabled": false,
+            "breakpoint": false,
+            "endEvent": 5,
+            "testObjectsRef": [
+              "6469ebc2-4789-4d24-89fd-92885e04a227"
+            ],
+            "arguments": [
+              {
+                "name": "button",
+                "type": 1,
+                "value": "1"
+              },
+              {
+                "name": "xCoordinate",
+                "type": 1,
+                "value": "29"
+              },
+              {
+                "name": "yCoordinate",
+                "type": 1,
+                "value": "14"
+              },
+              {
+                "name": "hasCtrlKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "hasAltKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "hasShiftKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "useCoordinates",
+                "type": 1,
+                "value": ""
+              }
+            ],
+            "action": 1,
+            "recDuration": 5
+          },
+          {
+            "id": "14e2ae44-f9c3-1214-c316-e82c9c10e3ee",
+            "type": 2,
+            "level": 1,
+            "disabled": false,
+            "endEvent": 2,
+            "testObjectsRef": [
+              "51ac6467-037e-b60d-36d2-a85354b311c7"
+            ],
+            "arguments": [
+              {
+                "name": "value",
+                "type": 1,
+                "value": "\n                        Your order is complete!\n                    "
+              },
+              {
+                "name": "property",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "condition",
+                "type": 1,
+                "value": ""
+              }
+            ],
+            "action": 25
+          },
+          {
+            "id": "67efe192-c9e2-111f-018d-d42dfcc66bc5",
+            "type": 8,
+            "level": 100,
+            "disabled": false,
+            "endEvent": 2,
+            "name": "Trx06-Pay",
+            "action": 2
+          },
+          {
+            "id": "d96ead2c-fa21-6099-2b2b-e54551f4bf16",
+            "type": 8,
+            "level": 100,
+            "disabled": false,
+            "endEvent": 2,
+            "name": "Trx07-Continue-Shopping",
+            "action": 1
+          },
+          {
+            "id": "ca1b1847-1f45-7768-2b5f-7c99089f0ae9",
+            "type": 2,
+            "level": 1,
+            "disabled": false,
+            "endEvent": 5,
+            "testObjectsRef": [
+              "6f4fd9bf-055d-357b-310a-e40c27d0fdb9"
+            ],
+            "arguments": [
+              {
+                "name": "button",
+                "type": 1,
+                "value": "1"
+              },
+              {
+                "name": "xCoordinate",
+                "type": 1,
+                "value": "60"
+              },
+              {
+                "name": "yCoordinate",
+                "type": 1,
+                "value": "27"
+              },
+              {
+                "name": "hasCtrlKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "hasAltKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "hasShiftKey",
+                "type": 1,
+                "value": ""
+              },
+              {
+                "name": "useCoordinates",
+                "type": 1,
+                "value": ""
+              }
+            ],
+            "action": 1
+          },
+          {
+            "id": "92f40f72-cc9e-4b4b-4700-ccd8ddfcb042",
+            "type": 8,
+            "level": 100,
+            "disabled": false,
+            "endEvent": 2,
+            "name": "Trx07-Continue-Shopping",
+            "action": 2
+          }
+        ]
+      },
+      {
+        "id": "00000000-0000-0000-0000-End",
+        "name": "End",
+        "type": 1,
+        "steps": []
+      },
+      {
+        "id": "00000000-0000-0000-0000-RunLogic",
+        "name": "RunLogic",
+        "type": 2,
+        "steps": [
+          {
+            "id": "00000000-0000-0000-0000-InitBlock",
+            "type": 100,
+            "level": 1,
+            "disabled": false,
+            "endEvent": 2,
+            "steps": [
+              {
+                "id": "ad1fd988-8777-db21-2140-0d3f6e70a0e3",
+                "type": 101,
+                "level": 1,
+                "disabled": false,
+                "endEvent": 2,
+                "actionName": "Init"
+              }
+            ],
+            "name": "Init Block",
+            "iteration": 1,
+            "mode": 1
+          },
+          {
+            "id": "00000000-0000-0000-0000-EndBlock",
+            "type": 100,
+            "level": 1,
+            "disabled": false,
+            "endEvent": 2,
+            "steps": [
+              {
+                "id": "37b27180-3afd-1d13-29f6-57ce31340644",
+                "type": 101,
+                "level": 1,
+                "disabled": false,
+                "endEvent": 2,
+                "actionName": "End"
+              }
+            ],
+            "name": "End Block",
+            "iteration": 1,
+            "mode": 1
+          },
+          {
+            "id": "00000000-0000-0000-0000-ActionBlock",
+            "type": 100,
+            "level": 1,
+            "disabled": false,
+            "endEvent": 2,
+            "steps": [
+              {
+                "id": "aa9e6f8c-12ea-db66-e263-fa2377ec9fc4",
+                "type": 101,
+                "level": 1,
+                "disabled": false,
+                "endEvent": 2,
+                "actionName": "Action"
+              }
+            ],
+            "name": "Action Block",
+            "iteration": 1,
+            "mode": 1
+          }
+        ]
+      },
+      {
+        "id": "00000000-0000-0000-0000-EventHandler",
+        "name": "EventHandler",
+        "type": 3,
+        "steps": []
+      }
+    ],
+    "testObjects": [
+      {
+        "id": "3db721a2-88bf-e9bd-d8d4-6577c01ae3e5",
+        "name": "Link",
+        "idents": {
+          "active": 2,
+          "context": {
+            "type": 1,
+            "path": []
+          },
+          "data": [
+            {
+              "type": 1,
+              "value": "(/html/body/main/div[2]/div/div[2]/div[1]/div[2]/a/div)[1]",
+              "suggestion": [
+                "(/html/body/main/div[2]/div/div[2]/div[1]/div[2]/a/div)[1]"
+              ]
+            },
+            {
+              "type": 4,
+              "value": "html>body>main>div:nth-of-type(2)>div>div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(2)>a>div",
+              "suggestion": [
+                "html>body>main>div:nth-of-type(2)>div>div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(2)>a>div"
+              ]
+            },
+            {
+              "type": 3,
+              "code": "evalCSS('html>body>main>div:nth-of-type(2)>div>div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(2)>a>div')"
+            },
+            {
+              "type": 2,
+              "primaryScore": 0.47515645000000006,
+              "ctxScore": 0,
+              "electors": [
+                {
+                  "id": "tagName",
+                  "value": "DIV",
+                  "score": 0.01
+                },
+                {
+                  "id": "class",
+                  "value": "hot-product-card-img-overlay",
+                  "score": 0.15
+                },
+                {
+                  "id": "a/href",
+                  "value": {
+                    "url": "/product/PUKVEV",
+                    "protocol": "http:",
+                    "host": "...",
+                    "pathname": "/product/PUKVEV",
+                    "search": ""
+                  },
+                  "score": 0.30000000000000004
+                },
+                {
+                  "id": "leaf",
+                  "value": true,
+                  "score": 0.01
+                },
+                {
+                  "id": "position",
+                  "value": {
+                    "pos": "absolute"
+                  },
+                  "score": 0.1
+                }
+              ],
+              "secondaryData": {
+                "totalObjs": 9,
+                "maxObjsPerElector": 200,
+                "total": {
+                  "tagName": 65,
+                  "class": 9,
+                  "a/href": 3,
+                  "leaf": null,
+                  "position": null
+                },
+                "secondaryScore": 0.210759471331579,
+                "totalCandidates": 9
+              }
+            },
+            {
+              "type": 5,
+              "primaryScore": 1,
+              "ctxScore": 0,
+              "expression": {
+                "op": "and",
+                "active": true,
+                "args": [
+                  {
+                    "op": "equalsIgnoreCase",
+                    "active": true,
+                    "descriptor": "tagName",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "tagName"
+                      },
+                      {
+                        "op": "value",
+                        "args": "DIV"
+                      }
+                    ]
+                  },
+                  {
+                    "op": "contained",
+                    "active": true,
+                    "descriptor": "class",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "class"
+                      },
+                      {
+                        "op": "value",
+                        "args": [
+                          "hot-product-card-img-overlay"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "op": "equalsIgnoreDigits",
+                    "active": true,
+                    "descriptor": "a/href",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "pathname"
+                      },
+                      {
+                        "op": "value",
+                        "args": "product/0PUK6V6EV0"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "secondaryData": {
+                "maxObjsPerDescriptor": 200,
+                "total": {
+                  "tagName": 65,
+                  "class": 9,
+                  "a/href": 1
+                },
+                "totalCandidates": 1
+              }
+            }
+          ]
+        },
+        "rolesEx": [
+          100,
+          1200
+        ]
+      },
+      {
+        "id": "671c55ae-9633-ee59-1eef-49c122784449",
+        "name": "Add To Cart",
+        "idents": {
+          "active": 2,
+          "context": {
+            "type": 1,
+            "path": []
+          },
+          "data": [
+            {
+              "type": 1,
+              "value": "(//button[text()=\"Add To Cart\"])[1]",
+              "suggestion": [
+                "(//button[text()=\"Add To Cart\"])[1]",
+                "(/html/body/main/div[1]/div/div[2]/div/form/button)[1]"
+              ]
+            },
+            {
+              "type": 4,
+              "value": "html>body>main>div:nth-of-type(1)>div>div:nth-of-type(2)>div>form>button",
+              "suggestion": [
+                "html>body>main>div:nth-of-type(1)>div>div:nth-of-type(2)>div>form>button"
+              ]
+            },
+            {
+              "type": 3,
+              "code": "evalCSS('html>body>main>div:nth-of-type(1)>div>div:nth-of-type(2)>div>form>button')"
+            },
+            {
+              "type": 2,
+              "primaryScore": 0.54559,
+              "ctxScore": 0,
+              "electors": [
+                {
+                  "id": "tagName",
+                  "value": "BUTTON",
+                  "score": 0.1
+                },
+                {
+                  "id": "class",
+                  "value": "cymbal-button-primary",
+                  "score": 0.15
+                },
+                {
+                  "id": "text",
+                  "value": {
+                    "text": "Add To Cart",
+                    "tagName": "BUTTON"
+                  },
+                  "score": 0.4
+                },
+                {
+                  "id": "leaf",
+                  "value": true,
+                  "score": 0.01
+                }
+              ],
+              "secondaryData": {
+                "totalObjs": 1,
+                "maxObjsPerElector": 200,
+                "total": {
+                  "tagName": 1,
+                  "class": 1,
+                  "text": 1,
+                  "leaf": null
+                },
+                "secondaryScore": 0,
+                "totalCandidates": 1
+              }
+            },
+            {
+              "type": 5,
+              "primaryScore": 1,
+              "ctxScore": 0,
+              "expression": {
+                "op": "and",
+                "active": true,
+                "args": [
+                  {
+                    "op": "equalsIgnoreCase",
+                    "active": true,
+                    "descriptor": "tagName",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "tagName"
+                      },
+                      {
+                        "op": "value",
+                        "args": "BUTTON"
+                      }
+                    ]
+                  },
+                  {
+                    "op": "equals",
+                    "active": true,
+                    "descriptor": "text",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "text"
+                      },
+                      {
+                        "op": "value",
+                        "args": "Add To Cart"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "secondaryData": {
+                "maxObjsPerDescriptor": 200,
+                "total": {
+                  "tagName": 1,
+                  "text": 1
+                },
+                "totalCandidates": 1
+              }
+            }
+          ]
+        },
+        "rolesEx": [
+          100,
+          800,
+          1000
+        ]
+      },
+      {
+        "id": "e1678d1e-d4b9-2591-83b0-7eea92e6c3a1",
+        "name": "Continue Shopping",
+        "idents": {
+          "active": 2,
+          "context": {
+            "type": 1,
+            "path": []
+          },
+          "data": [
+            {
+              "type": 1,
+              "value": "(//a[text()=\"\n                                    Continue Shopping\n                                \"])[1]",
+              "suggestion": [
+                "(//a[text()=\"\n                                    Continue Shopping\n                                \"])[1]",
+                "(/html/body/main/section/div/div[1]/div[1]/div[2]/form/a)[1]"
+              ]
+            },
+            {
+              "type": 4,
+              "value": "html>body>main>section>div>div:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(2)>form>a",
+              "suggestion": [
+                "html>body>main>section>div>div:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(2)>form>a"
+              ]
+            },
+            {
+              "type": 3,
+              "code": "evalCSS('html>body>main>section>div>div:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(2)>form>a')"
+            },
+            {
+              "type": 2,
+              "primaryScore": 0.6675990850000001,
+              "ctxScore": 0,
+              "electors": [
+                {
+                  "id": "tagName",
+                  "value": "A",
+                  "score": 0.01
+                },
+                {
+                  "id": "role",
+                  "value": "button",
+                  "score": 0.05
+                },
+                {
+                  "id": "class",
+                  "value": "cymbal-button-primary",
+                  "score": 0.15
+                },
+                {
+                  "id": "text",
+                  "value": {
+                    "text": "Continue Shopping",
+                    "tagName": "A"
+                  },
+                  "score": 0.4
+                },
+                {
+                  "id": "a/href",
+                  "value": {
+                    "url": "/",
+                    "protocol": "http:",
+                    "host": "...",
+                    "pathname": "/",
+                    "search": ""
+                  },
+                  "score": 0.30000000000000004
+                },
+                {
+                  "id": "leaf",
+                  "value": true,
+                  "score": 0.01
+                }
+              ],
+              "secondaryData": {
+                "totalObjs": 1,
+                "maxObjsPerElector": 200,
+                "total": {
+                  "tagName": 9,
+                  "role": 1,
+                  "class": 2,
+                  "text": 1,
+                  "a/href": 3,
+                  "leaf": null
+                },
+                "secondaryScore": 0,
+                "totalCandidates": 1
+              }
+            },
+            {
+              "type": 5,
+              "primaryScore": 1,
+              "ctxScore": 0,
+              "expression": {
+                "op": "and",
+                "active": true,
+                "args": [
+                  {
+                    "op": "equalsIgnoreCase",
+                    "active": true,
+                    "descriptor": "tagName",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "tagName"
+                      },
+                      {
+                        "op": "value",
+                        "args": "A"
+                      }
+                    ]
+                  },
+                  {
+                    "op": "equalsIgnoreCase",
+                    "active": true,
+                    "descriptor": "role",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "role"
+                      },
+                      {
+                        "op": "value",
+                        "args": "button"
+                      }
+                    ]
+                  },
+                  {
+                    "op": "equals",
+                    "active": true,
+                    "descriptor": "text",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "text"
+                      },
+                      {
+                        "op": "value",
+                        "args": "Continue Shopping"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "secondaryData": {
+                "maxObjsPerDescriptor": 200,
+                "total": {
+                  "tagName": 9,
+                  "role": 1,
+                  "text": 1
+                },
+                "totalCandidates": 1
+              }
+            }
+          ]
+        },
+        "rolesEx": [
+          100,
+          800,
+          1200
+        ]
+      },
+      {
+        "id": "5f4023b6-d895-68a6-dcf8-a2dc2d2f2f83",
+        "name": "Dog Notebook $19.99 The...",
+        "idents": {
+          "active": 2,
+          "context": {
+            "type": 1,
+            "path": []
+          },
+          "data": [
+            {
+              "type": 1,
+              "value": "(//select[@id=\"quantity\"])[1]",
+              "suggestion": [
+                "(//select[@id=\"quantity\"])[1]"
+              ]
+            },
+            {
+              "type": 4,
+              "value": "select#quantity",
+              "suggestion": [
+                "select#quantity"
+              ]
+            },
+            {
+              "type": 3,
+              "code": "evalCSS('select#quantity')"
+            },
+            {
+              "type": 2,
+              "primaryScore": 0.68815,
+              "ctxScore": 0,
+              "electors": [
+                {
+                  "id": "tagName",
+                  "value": "SELECT",
+                  "score": 0.1
+                },
+                {
+                  "id": "id",
+                  "value": {
+                    "id": "quantity",
+                    "isValidWord": true
+                  },
+                  "score": 0.5
+                },
+                {
+                  "id": "name",
+                  "value": {
+                    "name": "quantity",
+                    "isValidWord": true
+                  },
+                  "score": 0.3
+                },
+                {
+                  "id": "leaf",
+                  "value": false,
+                  "score": 0.01
+                }
+              ],
+              "secondaryData": {
+                "totalObjs": 1,
+                "maxObjsPerElector": 200,
+                "total": {
+                  "tagName": 2,
+                  "id": 1,
+                  "name": 1,
+                  "leaf": null
+                },
+                "secondaryScore": 0,
+                "totalCandidates": 1
+              }
+            },
+            {
+              "type": 5,
+              "primaryScore": 1,
+              "ctxScore": 0,
+              "expression": {
+                "op": "and",
+                "active": true,
+                "args": [
+                  {
+                    "op": "equalsIgnoreCase",
+                    "active": true,
+                    "descriptor": "tagName",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "tagName"
+                      },
+                      {
+                        "op": "value",
+                        "args": "SELECT"
+                      }
+                    ]
+                  },
+                  {
+                    "op": "equalsIgnoreDigits",
+                    "active": true,
+                    "descriptor": "name",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "name"
+                      },
+                      {
+                        "op": "value",
+                        "args": "quantity"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "secondaryData": {
+                "maxObjsPerDescriptor": 200,
+                "total": {
+                  "tagName": 2,
+                  "name": 1
+                },
+                "totalCandidates": 1
+              }
+            }
+          ]
+        },
+        "rolesEx": [
+          100,
+          800,
+          2600
+        ]
+      },
+      {
+        "id": "acd54ae8-b40d-870e-9780-5ccce0c172bb",
+        "name": "Add To Cart",
+        "idents": {
+          "active": 2,
+          "context": {
+            "type": 1,
+            "path": []
+          },
+          "data": [
+            {
+              "type": 1,
+              "value": "(//button[text()=\"Add To Cart\"])[1]",
+              "suggestion": [
+                "(//button[text()=\"Add To Cart\"])[1]",
+                "(/html/body/main/div[1]/div/div[2]/div/form/button)[1]"
+              ]
+            },
+            {
+              "type": 4,
+              "value": "html>body>main>div:nth-of-type(1)>div>div:nth-of-type(2)>div>form>button",
+              "suggestion": [
+                "html>body>main>div:nth-of-type(1)>div>div:nth-of-type(2)>div>form>button"
+              ]
+            },
+            {
+              "type": 3,
+              "code": "evalCSS('html>body>main>div:nth-of-type(1)>div>div:nth-of-type(2)>div>form>button')"
+            },
+            {
+              "type": 2,
+              "primaryScore": 0.54559,
+              "ctxScore": 0,
+              "electors": [
+                {
+                  "id": "tagName",
+                  "value": "BUTTON",
+                  "score": 0.1
+                },
+                {
+                  "id": "class",
+                  "value": "cymbal-button-primary",
+                  "score": 0.15
+                },
+                {
+                  "id": "text",
+                  "value": {
+                    "text": "Add To Cart",
+                    "tagName": "BUTTON"
+                  },
+                  "score": 0.4
+                },
+                {
+                  "id": "leaf",
+                  "value": true,
+                  "score": 0.01
+                }
+              ],
+              "secondaryData": {
+                "totalObjs": 1,
+                "maxObjsPerElector": 200,
+                "total": {
+                  "tagName": 1,
+                  "class": 1,
+                  "text": 1,
+                  "leaf": null
+                },
+                "secondaryScore": 0,
+                "totalCandidates": 1
+              }
+            },
+            {
+              "type": 5,
+              "primaryScore": 1,
+              "ctxScore": 0,
+              "expression": {
+                "op": "and",
+                "active": true,
+                "args": [
+                  {
+                    "op": "equalsIgnoreCase",
+                    "active": true,
+                    "descriptor": "tagName",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "tagName"
+                      },
+                      {
+                        "op": "value",
+                        "args": "BUTTON"
+                      }
+                    ]
+                  },
+                  {
+                    "op": "equals",
+                    "active": true,
+                    "descriptor": "text",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "text"
+                      },
+                      {
+                        "op": "value",
+                        "args": "Add To Cart"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "secondaryData": {
+                "maxObjsPerDescriptor": 200,
+                "total": {
+                  "tagName": 1,
+                  "text": 1
+                },
+                "totalCandidates": 1
+              }
+            }
+          ]
+        },
+        "rolesEx": [
+          100,
+          800,
+          1000
+        ]
+      },
+      {
+        "id": "2b3ecc55-2a0b-7306-826c-9a3d5f42970b",
+        "name": "Month",
+        "idents": {
+          "active": 2,
+          "context": {
+            "type": 1,
+            "path": []
+          },
+          "data": [
+            {
+              "type": 1,
+              "value": "(//select[@id=\"credit_card_expiration_month\"])[1]",
+              "suggestion": [
+                "(//select[@id=\"credit_card_expiration_month\"])[1]"
+              ]
+            },
+            {
+              "type": 4,
+              "value": "select#credit_card_expiration_month",
+              "suggestion": [
+                "select#credit_card_expiration_month"
+              ]
+            },
+            {
+              "type": 3,
+              "code": "evalCSS('select#credit_card_expiration_month')"
+            },
+            {
+              "type": 2,
+              "primaryScore": 0.81289,
+              "ctxScore": 0,
+              "electors": [
+                {
+                  "id": "tagName",
+                  "value": "SELECT",
+                  "score": 0.1
+                },
+                {
+                  "id": "id",
+                  "value": {
+                    "id": "credit_card_expiration_month",
+                    "isValidWord": true
+                  },
+                  "score": 0.5
+                },
+                {
+                  "id": "name",
+                  "value": {
+                    "name": "credit_card_expiration_month",
+                    "isValidWord": true
+                  },
+                  "score": 0.3
+                },
+                {
+                  "id": "label",
+                  "value": "Month",
+                  "score": 0.4
+                },
+                {
+                  "id": "leaf",
+                  "value": false,
+                  "score": 0.01
+                }
+              ],
+              "secondaryData": {
+                "totalObjs": 1,
+                "maxObjsPerElector": 200,
+                "total": {
+                  "tagName": 3,
+                  "id": 1,
+                  "name": 1,
+                  "label": 1,
+                  "leaf": null
+                },
+                "secondaryScore": 0,
+                "totalCandidates": 1
+              }
+            },
+            {
+              "type": 5,
+              "primaryScore": 1,
+              "ctxScore": 0,
+              "expression": {
+                "op": "and",
+                "active": true,
+                "args": [
+                  {
+                    "op": "equalsIgnoreCase",
+                    "active": true,
+                    "descriptor": "tagName",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "tagName"
+                      },
+                      {
+                        "op": "value",
+                        "args": "SELECT"
+                      }
+                    ]
+                  },
+                  {
+                    "op": "equalsIgnoreDigits",
+                    "active": true,
+                    "descriptor": "name",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "name"
+                      },
+                      {
+                        "op": "value",
+                        "args": "credit_card_expiration_month"
+                      }
+                    ]
+                  },
+                  {
+                    "op": "equals",
+                    "active": true,
+                    "descriptor": "label",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "label"
+                      },
+                      {
+                        "op": "value",
+                        "args": "Month"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "secondaryData": {
+                "maxObjsPerDescriptor": 200,
+                "total": {
+                  "tagName": 3,
+                  "name": 1,
+                  "label": 1
+                },
+                "totalCandidates": 1
+              }
+            }
+          ]
+        },
+        "rolesEx": [
+          100,
+          800,
+          2600
+        ]
+      },
+      {
+        "id": "c4e866c6-26fe-38d3-085f-3fb042306047",
+        "name": "Year",
+        "idents": {
+          "active": 2,
+          "context": {
+            "type": 1,
+            "path": []
+          },
+          "data": [
+            {
+              "type": 1,
+              "value": "(//select[@id=\"credit_card_expiration_year\"])[1]",
+              "suggestion": [
+                "(//select[@id=\"credit_card_expiration_year\"])[1]"
+              ]
+            },
+            {
+              "type": 4,
+              "value": "select#credit_card_expiration_year",
+              "suggestion": [
+                "select#credit_card_expiration_year"
+              ]
+            },
+            {
+              "type": 3,
+              "code": "evalCSS('select#credit_card_expiration_year')"
+            },
+            {
+              "type": 2,
+              "primaryScore": 0.8222455,
+              "ctxScore": 0,
+              "electors": [
+                {
+                  "id": "tagName",
+                  "value": "SELECT",
+                  "score": 0.1
+                },
+                {
+                  "id": "id",
+                  "value": {
+                    "id": "credit_card_expiration_year",
+                    "isValidWord": true
+                  },
+                  "score": 0.5
+                },
+                {
+                  "id": "name",
+                  "value": {
+                    "name": "credit_card_expiration_year",
+                    "isValidWord": true
+                  },
+                  "score": 0.3
+                },
+                {
+                  "id": "label",
+                  "value": "Year",
+                  "score": 0.4
+                },
+                {
+                  "id": "number",
+                  "value": true,
+                  "score": 0.05
+                },
+                {
+                  "id": "leaf",
+                  "value": false,
+                  "score": 0.01
+                }
+              ],
+              "secondaryData": {
+                "totalObjs": 1,
+                "maxObjsPerElector": 200,
+                "total": {
+                  "tagName": 3,
+                  "id": 1,
+                  "name": 1,
+                  "label": 1,
+                  "number": null,
+                  "leaf": null
+                },
+                "secondaryScore": 0,
+                "totalCandidates": 1
+              }
+            },
+            {
+              "type": 5,
+              "primaryScore": 1,
+              "ctxScore": 0,
+              "expression": {
+                "op": "and",
+                "active": true,
+                "args": [
+                  {
+                    "op": "equalsIgnoreCase",
+                    "active": true,
+                    "descriptor": "tagName",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "tagName"
+                      },
+                      {
+                        "op": "value",
+                        "args": "SELECT"
+                      }
+                    ]
+                  },
+                  {
+                    "op": "equalsIgnoreDigits",
+                    "active": true,
+                    "descriptor": "name",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "name"
+                      },
+                      {
+                        "op": "value",
+                        "args": "credit_card_expiration_year"
+                      }
+                    ]
+                  },
+                  {
+                    "op": "equals",
+                    "active": true,
+                    "descriptor": "label",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "label"
+                      },
+                      {
+                        "op": "value",
+                        "args": "Year"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "secondaryData": {
+                "maxObjsPerDescriptor": 200,
+                "total": {
+                  "tagName": 3,
+                  "name": 1,
+                  "label": 1
+                },
+                "totalCandidates": 1
+              }
+            }
+          ]
+        },
+        "rolesEx": [
+          100,
+          800,
+          2600
+        ]
+      },
+      {
+        "id": "6469ebc2-4789-4d24-89fd-92885e04a227",
+        "name": "Place Order",
+        "idents": {
+          "active": 2,
+          "context": {
+            "type": 1,
+            "path": []
+          },
+          "data": [
+            {
+              "type": 1,
+              "value": "(//button[text()=\"\n                                    Place Order\n                                \"])[1]",
+              "suggestion": [
+                "(//button[text()=\"\n                                    Place Order\n                                \"])[1]",
+                "(/html/body/main/section/div/div[2]/form/div[10]/div/button)[1]"
+              ]
+            },
+            {
+              "type": 4,
+              "value": "html>body>main>section>div>div:nth-of-type(2)>form>div:nth-of-type(10)>div>button",
+              "suggestion": [
+                "html>body>main>section>div>div:nth-of-type(2)>form>div:nth-of-type(10)>div>button"
+              ]
+            },
+            {
+              "type": 3,
+              "code": "evalCSS('html>body>main>section>div>div:nth-of-type(2)>form>div:nth-of-type(10)>div>button')"
+            },
+            {
+              "type": 2,
+              "primaryScore": 0.54559,
+              "ctxScore": 0,
+              "electors": [
+                {
+                  "id": "tagName",
+                  "value": "BUTTON",
+                  "score": 0.1
+                },
+                {
+                  "id": "class",
+                  "value": "cymbal-button-primary",
+                  "score": 0.15
+                },
+                {
+                  "id": "text",
+                  "value": {
+                    "text": "Place Order",
+                    "tagName": "BUTTON"
+                  },
+                  "score": 0.4
+                },
+                {
+                  "id": "leaf",
+                  "value": true,
+                  "score": 0.01
+                }
+              ],
+              "secondaryData": {
+                "totalObjs": 2,
+                "maxObjsPerElector": 200,
+                "total": {
+                  "tagName": 2,
+                  "class": 2,
+                  "text": 1,
+                  "leaf": null
+                },
+                "secondaryScore": 0.0099999,
+                "totalCandidates": 2
+              }
+            },
+            {
+              "type": 5,
+              "primaryScore": 1,
+              "ctxScore": 0,
+              "expression": {
+                "op": "and",
+                "active": true,
+                "args": [
+                  {
+                    "op": "equalsIgnoreCase",
+                    "active": true,
+                    "descriptor": "tagName",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "tagName"
+                      },
+                      {
+                        "op": "value",
+                        "args": "BUTTON"
+                      }
+                    ]
+                  },
+                  {
+                    "op": "equals",
+                    "active": true,
+                    "descriptor": "text",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "text"
+                      },
+                      {
+                        "op": "value",
+                        "args": "Place Order"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "secondaryData": {
+                "maxObjsPerDescriptor": 200,
+                "total": {
+                  "tagName": 2,
+                  "text": 1
+                },
+                "totalCandidates": 1
+              }
+            }
+          ]
+        },
+        "rolesEx": [
+          100,
+          800,
+          1000
+        ]
+      },
+      {
+        "id": "6f4fd9bf-055d-357b-310a-e40c27d0fdb9",
+        "name": "Continue Shopping",
+        "idents": {
+          "active": 2,
+          "context": {
+            "type": 1,
+            "path": []
+          },
+          "data": [
+            {
+              "type": 1,
+              "value": "(//a[text()=\"\n                        Continue Shopping\n                    \"])[1]",
+              "suggestion": [
+                "(//a[text()=\"\n                        Continue Shopping\n                    \"])[1]",
+                "(/html/body/main/section[1]/div[5]/div/a)[1]"
+              ]
+            },
+            {
+              "type": 4,
+              "value": "html>body>main>section:nth-of-type(1)>div:nth-of-type(5)>div>a",
+              "suggestion": [
+                "html>body>main>section:nth-of-type(1)>div:nth-of-type(5)>div>a"
+              ]
+            },
+            {
+              "type": 3,
+              "code": "evalCSS('html>body>main>section:nth-of-type(1)>div:nth-of-type(5)>div>a')"
+            },
+            {
+              "type": 2,
+              "primaryScore": 0.6675990850000001,
+              "ctxScore": 0,
+              "electors": [
+                {
+                  "id": "tagName",
+                  "value": "A",
+                  "score": 0.01
+                },
+                {
+                  "id": "role",
+                  "value": "button",
+                  "score": 0.05
+                },
+                {
+                  "id": "class",
+                  "value": "cymbal-button-primary",
+                  "score": 0.15
+                },
+                {
+                  "id": "text",
+                  "value": {
+                    "text": "Continue Shopping",
+                    "tagName": "A"
+                  },
+                  "score": 0.4
+                },
+                {
+                  "id": "a/href",
+                  "value": {
+                    "url": "/",
+                    "protocol": "http:",
+                    "host": "...",
+                    "pathname": "/",
+                    "search": ""
+                  },
+                  "score": 0.30000000000000004
+                },
+                {
+                  "id": "leaf",
+                  "value": true,
+                  "score": 0.01
+                }
+              ],
+              "secondaryData": {
+                "totalObjs": 1,
+                "maxObjsPerElector": 200,
+                "total": {
+                  "tagName": 8,
+                  "role": 1,
+                  "class": 1,
+                  "text": 1,
+                  "a/href": 3,
+                  "leaf": null
+                },
+                "secondaryScore": 0,
+                "totalCandidates": 1
+              }
+            },
+            {
+              "type": 5,
+              "primaryScore": 1,
+              "ctxScore": 0,
+              "expression": {
+                "op": "and",
+                "active": true,
+                "args": [
+                  {
+                    "op": "equalsIgnoreCase",
+                    "active": true,
+                    "descriptor": "tagName",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "tagName"
+                      },
+                      {
+                        "op": "value",
+                        "args": "A"
+                      }
+                    ]
+                  },
+                  {
+                    "op": "equalsIgnoreCase",
+                    "active": true,
+                    "descriptor": "role",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "role"
+                      },
+                      {
+                        "op": "value",
+                        "args": "button"
+                      }
+                    ]
+                  },
+                  {
+                    "op": "equals",
+                    "active": true,
+                    "descriptor": "text",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "text"
+                      },
+                      {
+                        "op": "value",
+                        "args": "Continue Shopping"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "secondaryData": {
+                "maxObjsPerDescriptor": 200,
+                "total": {
+                  "tagName": 8,
+                  "role": 1,
+                  "text": 1
+                },
+                "totalCandidates": 1
+              }
+            }
+          ]
+        },
+        "rolesEx": [
+          100,
+          800,
+          1200
+        ]
+      },
+      {
+        "id": "533e1afc-97fb-e23b-4492-82cb2cee7f07",
+        "name": "Link DogNotebook",
+        "idents": {
+          "active": 2,
+          "context": {
+            "type": 1,
+            "path": []
+          },
+          "data": [
+            {
+              "type": 1,
+              "value": "(/html/body/main/div[2]/div/div[2]/div[1]/div[8]/a/div)[1]",
+              "suggestion": [
+                "(/html/body/main/div[2]/div/div[2]/div[1]/div[8]/a/div)[1]"
+              ]
+            },
+            {
+              "type": 4,
+              "value": "html>body>main>div:nth-of-type(2)>div>div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(8)>a>div",
+              "suggestion": [
+                "html>body>main>div:nth-of-type(2)>div>div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(8)>a>div"
+              ]
+            },
+            {
+              "type": 3,
+              "code": "evalCSS('html>body>main>div:nth-of-type(2)>div>div:nth-of-type(2)>div:nth-of-type(1)>div:nth-of-type(8)>a>div')"
+            },
+            {
+              "type": 2,
+              "primaryScore": 0.47515645000000006,
+              "ctxScore": 0,
+              "electors": [
+                {
+                  "id": "tagName",
+                  "value": "DIV",
+                  "score": 0.01
+                },
+                {
+                  "id": "class",
+                  "value": "hot-product-card-img-overlay",
+                  "score": 0.15
+                },
+                {
+                  "id": "a/href",
+                  "value": {
+                    "url": "/product/OLJCESPCZ",
+                    "protocol": "http:",
+                    "host": "...",
+                    "pathname": "/product/OLJCESPCZ",
+                    "search": ""
+                  },
+                  "score": 0.30000000000000004
+                },
+                {
+                  "id": "leaf",
+                  "value": true,
+                  "score": 0.01
+                },
+                {
+                  "id": "position",
+                  "value": {
+                    "pos": "absolute"
+                  },
+                  "score": 0.1
+                }
+              ],
+              "secondaryData": {
+                "totalObjs": 9,
+                "maxObjsPerElector": 200,
+                "total": {
+                  "tagName": 65,
+                  "class": 9,
+                  "a/href": 3,
+                  "leaf": null,
+                  "position": null
+                },
+                "secondaryScore": 0.210759471331579,
+                "totalCandidates": 9
+              }
+            },
+            {
+              "type": 5,
+              "primaryScore": 1,
+              "ctxScore": 0,
+              "expression": {
+                "op": "and",
+                "active": true,
+                "args": [
+                  {
+                    "op": "equalsIgnoreCase",
+                    "active": true,
+                    "descriptor": "tagName",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "tagName"
+                      },
+                      {
+                        "op": "value",
+                        "args": "DIV"
+                      }
+                    ]
+                  },
+                  {
+                    "op": "contained",
+                    "active": true,
+                    "descriptor": "class",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "class"
+                      },
+                      {
+                        "op": "value",
+                        "args": [
+                          "hot-product-card-img-overlay"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "op": "equalsIgnoreDigits",
+                    "active": true,
+                    "descriptor": "a/href",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "pathname"
+                      },
+                      {
+                        "op": "value",
+                        "args": "product/OLJCESPC7Z"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "secondaryData": {
+                "maxObjsPerDescriptor": 200,
+                "total": {
+                  "tagName": 65,
+                  "class": 9,
+                  "a/href": 1
+                },
+                "totalCandidates": 1
+              }
+            }
+          ]
+        },
+        "rolesEx": [
+          100,
+          1200
+        ]
+      },
+      {
+        "id": "51ac6467-037e-b60d-36d2-a85354b311c7",
+        "name": "Your order is complete!",
+        "idents": {
+          "active": 2,
+          "context": {
+            "type": 1,
+            "path": []
+          },
+          "data": [
+            {
+              "type": 1,
+              "value": "(//h3[text()=\"\n                        Your order is complete!\n                    \"])[1]",
+              "suggestion": [
+                "(//h3[text()=\"\n                        Your order is complete!\n                    \"])[1]",
+                "(/html/body/main/section[1]/div[1]/div[1]/h3)[1]"
+              ]
+            },
+            {
+              "type": 4,
+              "value": "html>body>main>section:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(1)>h3",
+              "suggestion": [
+                "html>body>main>section:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(1)>h3"
+              ]
+            },
+            {
+              "type": 3,
+              "code": "evalCSS('html>body>main>section:nth-of-type(1)>div:nth-of-type(1)>div:nth-of-type(1)>h3')"
+            },
+            {
+              "type": 2,
+              "primaryScore": 0.41194000000000003,
+              "ctxScore": 0,
+              "electors": [
+                {
+                  "id": "tagName",
+                  "value": "H3",
+                  "score": 0.01
+                },
+                {
+                  "id": "text",
+                  "value": {
+                    "text": "Your order is complete!",
+                    "tagName": "H3"
+                  },
+                  "score": 0.4
+                },
+                {
+                  "id": "leaf",
+                  "value": true,
+                  "score": 0.01
+                }
+              ],
+              "secondaryData": {
+                "totalObjs": 1,
+                "maxObjsPerElector": 200,
+                "total": {
+                  "tagName": 1,
+                  "text": 1,
+                  "leaf": null
+                },
+                "secondaryScore": 0,
+                "totalCandidates": 1
+              }
+            },
+            {
+              "type": 5,
+              "primaryScore": 1,
+              "ctxScore": 0,
+              "expression": {
+                "op": "and",
+                "active": true,
+                "args": [
+                  {
+                    "op": "equalsIgnoreCase",
+                    "active": true,
+                    "descriptor": "tagName",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "tagName"
+                      },
+                      {
+                        "op": "value",
+                        "args": "H3"
+                      }
+                    ]
+                  },
+                  {
+                    "op": "equals",
+                    "active": true,
+                    "descriptor": "text",
+                    "args": [
+                      {
+                        "op": "property",
+                        "args": "text"
+                      },
+                      {
+                        "op": "value",
+                        "args": "Your order is complete!"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "secondaryData": {
+                "maxObjsPerDescriptor": 200,
+                "total": {
+                  "tagName": 1,
+                  "text": 1
+                },
+                "totalCandidates": 1
+              }
+            }
+          ]
+        },
+        "rolesEx": [
+          100,
+          700
+        ]
+      }
+    ]
+  }
+}

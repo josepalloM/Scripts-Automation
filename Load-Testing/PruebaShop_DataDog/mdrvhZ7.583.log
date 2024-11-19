@@ -1,0 +1,1072 @@
+Start auto log messages stack - Iteration 1.
+t=00077203ms: Step 8: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00078014ms: Step 9: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00080047ms: Step 9: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06Pay" started.
+t=00080862ms: Step 10: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00141433ms: Step 10: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06Pay" ended with a "Pass" status (Duration: 61,3790 Wasted Time: 0,8060).
+Notify: Transaction "Trx07ContinueShopping" started.
+t=00142241ms: Step 11: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00162366ms: Error -205177: Step 11: Click on Continue Shopping Link failed. Target object was not found.    Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 1.
+Notify: Transaction "Trx01URL" ended with a "Pass" status (Duration: 20,9670 Wasted Time: 0,8060).
+Notify: Transaction "Trx02ProductOne" started.
+t=00144566ms: Step 2: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00164783ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 21,0330 Wasted Time: 0,8130).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00165600ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00167696ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 2,8990 Wasted Time: 0,8000).
+t=00168499ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00188624ms: Error -205177: Step 4: Click on Continue Shopping Link failed. Target object was not found.    Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]
+Start auto log messages stack - Iteration 2.
+t=00163503ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01URL" started.
+t=00163505ms: Step 1: Navigate to http://34.30.241.11/ started.    [MsgId: MMSG-205180]
+t=00167804ms: Step 1: Navigate to http://34.30.241.11/ successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01URL" ended with a "Pass" status (Duration: 5,1040 Wasted Time: 0,8030).
+Notify: Transaction "Trx02ProductOne" started.
+t=00168609ms: Step 2: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00188727ms: Error -205177: Step 2: Click on Link Link failed. Target object was not found.    Snapshot Info [MSH 2 1]    [MsgId: MERR-205177]
+Start auto log messages stack - Iteration 1.
+t=00138932ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 23,3860 Wasted Time: 0,8110).
+t=00139744ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00154675ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00155485ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00168089ms: Step 5: Click on Link Link successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" ended with a "Pass" status (Duration: 13,4080 Wasted Time: 0,9650).
+t=00168894ms: Step 6: Select 10 from Dog Notebook $19.99 The... ListBox started.    [MsgId: MMSG-205180]
+t=00189000ms: Error -205177: Step 6: Select 10 from Dog Notebook $19.99 The... ListBox failed. Target object was not found.    Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+End auto log messages stack.
+
+
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 1.
+t=00182558ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01URL" started.
+t=00182567ms: Step 1: Navigate to http://34.30.241.11/ started.    [MsgId: MMSG-205180]
+t=00183230ms: Step 1: Navigate to http://34.30.241.11/ successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01URL" ended with a "Pass" status (Duration: 1,4770 Wasted Time: 0,8050).
+Notify: Transaction "Trx02ProductOne" started.
+t=00184041ms: Step 2: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00204153ms: Error -205177: Step 2: Click on Link Link failed. Target object was not found.    Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 2.
+t=00189833ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01URL" started.
+t=00189833ms: Step 1: Navigate to http://34.30.241.11/ started.    [MsgId: MMSG-205180]
+t=00190160ms: Step 1: Navigate to http://34.30.241.11/ successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01URL" ended with a "Pass" status (Duration: 1,1460 Wasted Time: 0,8090).
+Notify: Transaction "Trx02ProductOne" started.
+t=00190970ms: Step 2: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00211088ms: Error -205177: Step 2: Click on Link Link failed. Target object was not found.    Snapshot Info [MSH 2 1]    [MsgId: MERR-205177]
+Start auto log messages stack - Iteration 3.
+t=00189932ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01URL" started.
+t=00189935ms: Step 1: Navigate to http://34.30.241.11/ started.    [MsgId: MMSG-205180]
+t=00190228ms: Step 1: Navigate to http://34.30.241.11/ successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01URL" ended with a "Pass" status (Duration: 1,0830 Wasted Time: 0,8030).
+Notify: Transaction "Trx02ProductOne" started.
+t=00191017ms: Step 2: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00211157ms: Error -205177: Step 2: Click on Link Link failed. Target object was not found.    Snapshot Info [MSH 3 2]    [MsgId: MERR-205177]
+Start auto log messages stack - Iteration 2.
+t=00190275ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01URL" started.
+t=00190278ms: Step 1: Navigate to http://34.30.241.11/ started.    [MsgId: MMSG-205180]
+t=00190547ms: Step 1: Navigate to http://34.30.241.11/ successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01URL" ended with a "Pass" status (Duration: 1,0830 Wasted Time: 0,8120).
+Notify: Transaction "Trx02ProductOne" started.
+t=00191361ms: Step 2: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00211480ms: Error -205177: Step 2: Click on Link Link failed. Target object was not found.    Snapshot Info [MSH 2 1]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+End auto log messages stack.
+
+
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 3.
+t=00232054ms: Step 8: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00232866ms: Step 9: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00234891ms: Step 9: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06Pay" started.
+t=00235696ms: Step 10: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00295948ms: Step 10: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06Pay" ended with a "Pass" status (Duration: 61,0570 Wasted Time: 0,8030).
+Notify: Transaction "Trx07ContinueShopping" started.
+t=00296753ms: Step 11: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00316854ms: Error -205177: Step 11: Click on Continue Shopping Link failed. Target object was not found.    Snapshot Info [MSH 3 2]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 2.
+t=00212877ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,3650 Wasted Time: 0,8020).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00213694ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00214466ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,5950 Wasted Time: 0,8080).
+t=00215277ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00215884ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00216693ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00396940ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 2 1]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 3.
+t=00220093ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,4040 Wasted Time: 0,8050).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00220883ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00221573ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,4130 Wasted Time: 0,8010).
+t=00222297ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00222819ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00223637ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00403859ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 3 2]    [MsgId: MERR-205177]
+Start auto log messages stack - Iteration 4.
+t=00220182ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,4570 Wasted Time: 0,8100).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00220995ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00221701ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,5060 Wasted Time: 0,8000).
+t=00222505ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00223041ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00223858ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00404162ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 4 3]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 1.
+t=00250523ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2790 Wasted Time: 0,8010).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00251327ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00252636ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 2,1210 Wasted Time: 0,8110).
+t=00253448ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00253876ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00254684ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00434947ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 1.
+t=00310514ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,3900 Wasted Time: 0,8070).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00311325ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00311892ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3720 Wasted Time: 0,8040).
+t=00312697ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00313212ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00314030ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00494340ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 4.
+t=00325468ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2450 Wasted Time: 0,8060).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00326275ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00327019ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,5550 Wasted Time: 0,8090).
+t=00327830ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00328222ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00329034ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00509342ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 4 3]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 1.
+t=00369860ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,3210 Wasted Time: 0,8310).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00370688ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00371222ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3520 Wasted Time: 0,8120).
+t=00372037ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00372470ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00373284ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00553591ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 3.
+t=00406009ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2540 Wasted Time: 0,8080).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00406819ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00408481ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 2,4640 Wasted Time: 0,8000).
+t=00409284ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00409745ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00410562ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00590858ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 3 2]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 5.
+t=00414285ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,3600 Wasted Time: 0,8070).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00415094ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00415652ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3700 Wasted Time: 0,8090).
+t=00416463ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00417156ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00417973ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00598182ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 5 4]    [MsgId: MERR-205177]
+Start auto log messages stack - Iteration 4.
+t=00414411ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2990 Wasted Time: 0,8080).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00415223ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00415861ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,4440 Wasted Time: 0,8050).
+t=00416666ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00417195ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00418003ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00598266ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 4 3]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 1.
+t=00433115ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2350 Wasted Time: 0,8040).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00433922ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00434435ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3200 Wasted Time: 0,8010).
+t=00435243ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00435607ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00436422ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00616685ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 2.
+t=00444913ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2610 Wasted Time: 0,8090).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00445725ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00446229ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3100 Wasted Time: 0,8050).
+t=00447036ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00447384ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00448190ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00628581ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 2 1]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 2.
+t=00502871ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2040 Wasted Time: 0,8110).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00503689ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00504187ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3110 Wasted Time: 0,8080).
+t=00504999ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00505358ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00506165ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00686395ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 2 1]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 5.
+t=00518398ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2090 Wasted Time: 0,8020).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00519202ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00519707ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3190 Wasted Time: 0,8120).
+t=00520525ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00521042ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00521852ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00702045ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 5 4]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 2.
+t=00561993ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,1740 Wasted Time: 0,8040).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00562799ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00563261ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,2690 Wasted Time: 0,8040).
+t=00564069ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00564474ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00565273ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00745490ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 2 1]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 4.
+t=00600847ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2410 Wasted Time: 0,8120).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00601676ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00602233ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3800 Wasted Time: 0,8090).
+t=00603043ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00603421ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00604233ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00784444ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 4 3]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 6.
+t=00606770ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2340 Wasted Time: 0,8140).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00607585ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00608070ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,2990 Wasted Time: 0,8120).
+t=00608884ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00609296ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00610108ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00790310ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 6 5]    [MsgId: MERR-205177]
+Start auto log messages stack - Iteration 5.
+t=00607043ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2850 Wasted Time: 0,8070).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00607852ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00608363ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3150 Wasted Time: 0,8020).
+t=00609172ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00609593ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00610405ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00790599ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 5 4]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 6.
+t=00722580ms: Step 8: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00723399ms: Step 9: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00725439ms: Step 9: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06Pay" started.
+t=00726255ms: Step 10: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00786447ms: Step 10: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06Pay" ended with a "Pass" status (Duration: 61,0050 Wasted Time: 0,8070).
+Notify: Transaction "Trx07ContinueShopping" started.
+t=00787261ms: Step 11: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00807348ms: Error -205177: Step 11: Click on Continue Shopping Link failed. Target object was not found.    Snapshot Info [MSH 6 5]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 2.
+t=00625802ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2430 Wasted Time: 0,8000).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00626607ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00627143ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3460 Wasted Time: 0,8050).
+t=00627951ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00628582ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00629384ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00809656ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 2 1]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 3.
+t=00637167ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2410 Wasted Time: 0,8030).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00637971ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00638446ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,2750 Wasted Time: 0,8000).
+t=00639247ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00639667ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00640468ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00820677ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 3 2]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 3.
+t=00694891ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,1990 Wasted Time: 0,8030).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00695698ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00696194ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3110 Wasted Time: 0,8120).
+t=00697008ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00697361ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00698173ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00878373ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 3 2]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 3.
+t=00753971ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2230 Wasted Time: 0,8030).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00754776ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00755361ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3860 Wasted Time: 0,8040).
+t=00756162ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00756556ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00757361ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00937567ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 3 2]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 5.
+t=00792948ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,1650 Wasted Time: 0,8070).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00793766ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00794264ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3220 Wasted Time: 0,8120).
+t=00795079ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00795451ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00796254ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00976454ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 5 4]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 7.
+t=00798864ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2590 Wasted Time: 0,8030).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00799670ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00800145ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,2850 Wasted Time: 0,8090).
+t=00800955ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00801322ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00802133ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00982363ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 7 6]    [MsgId: MERR-205177]
+Start auto log messages stack - Iteration 6.
+t=00798985ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,1930 Wasted Time: 0,8070).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00799794ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00800273ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,2880 Wasted Time: 0,8070).
+t=00801082ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00801480ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00802288ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00982484ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 6 5]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 7.
+t=00815906ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2620 Wasted Time: 0,8020).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00816709ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00817265ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3690 Wasted Time: 0,8110).
+t=00818078ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00818441ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00819255ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00999473ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 7 6]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 3.
+t=00818155ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,1790 Wasted Time: 0,8140).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00818970ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00819425ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,2600 Wasted Time: 0,8040).
+t=00820230ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00820531ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00821347ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01001570ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 3 2]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 4.
+t=00829233ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2260 Wasted Time: 0,8090).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00830047ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00830511ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,2810 Wasted Time: 0,8140).
+t=00831327ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00831626ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00832433ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01012615ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 4 3]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 4.
+t=00886850ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,1780 Wasted Time: 0,8060).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00887663ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00888158ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3040 Wasted Time: 0,8040).
+t=00888967ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00889315ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00890126ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01070341ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 4 3]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 4.
+t=00946182ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,1800 Wasted Time: 0,8120).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00946999ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00947463ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,2740 Wasted Time: 0,8060).
+t=00948272ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00948604ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00949421ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01129613ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 4 3]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 6.
+t=00985019ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2560 Wasted Time: 0,8140).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00985834ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00986330ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3120 Wasted Time: 0,8150).
+t=00987147ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00987494ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00988295ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01168463ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 6 5]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 8.
+t=00990882ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2450 Wasted Time: 0,8090).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00991692ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00992136ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,2470 Wasted Time: 0,8010).
+t=00992939ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00993393ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00994206ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01174419ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 8 7]    [MsgId: MERR-205177]
+Start auto log messages stack - Iteration 7.
+t=00991579ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2210 Wasted Time: 0,8050).
+Notify: Transaction "Trx03AddTOCar" started.
+t=00992386ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00992853ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,2750 Wasted Time: 0,8070).
+t=00993664ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00994110ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=00994912ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01175126ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 7 6]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 8.
+t=01008160ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,3120 Wasted Time: 0,8010).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01008963ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01009412ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,2610 Wasted Time: 0,8110).
+t=01010224ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01010587ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01011404ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01191779ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 8 7]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 4.
+t=01010329ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,1810 Wasted Time: 0,8050).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01011137ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01011588ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,2660 Wasted Time: 0,8120).
+t=01012402ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01012721ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01013527ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01193800ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 4 3]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 5.
+t=01021220ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2280 Wasted Time: 0,8100).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01022035ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01022520ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,2940 Wasted Time: 0,8050).
+t=01023328ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01023671ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01024481ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01204673ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 5 4]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 5.
+t=01078878ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,1690 Wasted Time: 0,8100).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01079693ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01080225ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3510 Wasted Time: 0,8140).
+t=01081045ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01081377ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01082193ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01262382ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 5 4]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 5.
+t=01138480ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2460 Wasted Time: 0,8080).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01139294ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01139764ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,2810 Wasted Time: 0,8080).
+t=01140573ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01140911ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01141722ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01321923ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 5 4]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 7.
+t=01176910ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,1640 Wasted Time: 0,8090).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01177723ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01178231ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3160 Wasted Time: 0,8040).
+t=01179037ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01179396ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01180201ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01360388ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 7 6]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 9.
+t=01183005ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,3130 Wasted Time: 0,8050).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01183813ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01184354ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3380 Wasted Time: 0,8070).
+t=01185150ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01185524ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01186339ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01366512ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 9 8]    [MsgId: MERR-205177]
+Start auto log messages stack - Iteration 8.
+t=01183771ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2690 Wasted Time: 0,8140).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01184586ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01185081ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3050 Wasted Time: 0,8080).
+t=01185891ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01186222ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01187030ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01367237ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 8 7]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 9.
+t=01200409ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2300 Wasted Time: 0,8080).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01201218ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01201734ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3310 Wasted Time: 0,8130).
+t=01202550ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01202878ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01203689ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01383951ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 9 8]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 5.
+t=01202335ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,1950 Wasted Time: 0,8040).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01203146ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01203669ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3420 Wasted Time: 0,8140).
+t=01204485ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01204933ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01205740ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01386001ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 5 4]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 6.
+t=01213311ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,1990 Wasted Time: 0,8020).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01214115ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01214606ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3030 Wasted Time: 0,8090).
+t=01215418ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01215757ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01216562ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01396750ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 6 5]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 6.
+t=01270956ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2520 Wasted Time: 0,8150).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01271773ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01272288ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3220 Wasted Time: 0,8060).
+t=01273096ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01273547ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01274355ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01454606ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 6 5]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 10.
+t=01405688ms: Step 8: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=01406497ms: Step 9: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=01408566ms: Step 9: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06Pay" started.
+t=01409370ms: Step 10: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=01469609ms: Step 10: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06Pay" ended with a "Pass" status (Duration: 61,0440 Wasted Time: 0,8020).
+Notify: Transaction "Trx07ContinueShopping" started.
+t=01470417ms: Step 11: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01490523ms: Error -205177: Step 11: Click on Continue Shopping Link failed. Target object was not found.    Snapshot Info [MSH 10 9]    [MsgId: MERR-205177]
+Start auto log messages stack - Iteration 6.
+t=01406403ms: Step 8: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=01407214ms: Step 9: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=01409243ms: Step 9: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06Pay" started.
+t=01410163ms: Step 10: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=01470409ms: Step 10: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06Pay" ended with a "Pass" status (Duration: 61,0590 Wasted Time: 0,8010).
+Notify: Transaction "Trx07ContinueShopping" started.
+t=01471212ms: Step 11: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01491322ms: Error -205177: Step 11: Click on Continue Shopping Link failed. Target object was not found.    Snapshot Info [MSH 6 5]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 6.
+t=01330419ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,1930 Wasted Time: 0,8140).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01331234ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01331879ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,4570 Wasted Time: 0,8110).
+t=01332693ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01333052ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01333872ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01514076ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 6 5]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 8.
+t=01369036ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,3200 Wasted Time: 0,8020).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01369840ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01370641ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,5960 Wasted Time: 0,8140).
+t=01371439ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01371973ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01372785ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01553131ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 8 7]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 10.
+t=01375603ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,4540 Wasted Time: 0,8130).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01376430ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01377294ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,6850 Wasted Time: 0,8080).
+t=01378116ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01378577ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01379407ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01559650ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 10 9]    [MsgId: MERR-205177]
+Start auto log messages stack - Iteration 9.
+t=01376489ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,6050 Wasted Time: 0,8160).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01377322ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01378136ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,6330 Wasted Time: 0,8040).
+t=01378941ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01379362ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01380181ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01560383ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 9 8]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 7.
+t=01405534ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,3680 Wasted Time: 0,8030).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01406278ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01407023ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,5500 Wasted Time: 0,8020).
+t=01407827ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01408345ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01409152ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01589444ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 7 6]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 7.
+t=01533600ms: Step 8: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=01534417ms: Step 9: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=01536441ms: Step 9: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06Pay" started.
+t=01537256ms: Step 10: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=01597456ms: Step 10: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06Pay" ended with a "Pass" status (Duration: 60,9940 Wasted Time: 0,8070).
+Notify: Transaction "Trx07ContinueShopping" started.
+t=01598249ms: Step 11: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01618349ms: Error -205177: Step 11: Click on Continue Shopping Link failed. Target object was not found.    Snapshot Info [MSH 7 6]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 7.
+t=01463084ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2510 Wasted Time: 0,8070).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01463895ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01464406ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3280 Wasted Time: 0,8130).
+t=01465224ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01465604ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01466411ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01646585ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 7 6]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 11.
+t=01579325ms: Step 8: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=01580141ms: Step 9: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=01582170ms: Step 9: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06Pay" started.
+t=01582984ms: Step 10: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=01643166ms: Step 10: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06Pay" ended with a "Pass" status (Duration: 60,9880 Wasted Time: 0,8040).
+Notify: Transaction "Trx07ContinueShopping" started.
+t=01643972ms: Step 11: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01664073ms: Error -205177: Step 11: Click on Continue Shopping Link failed. Target object was not found.    Snapshot Info [MSH 11 10]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 11.
+t=01499219ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2910 Wasted Time: 0,8060).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01500027ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01500485ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,2650 Wasted Time: 0,8060).
+t=01501293ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01501652ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01502459ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01682681ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 11 10]    [MsgId: MERR-205177]
+Start auto log messages stack - Iteration 7.
+t=01499865ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,1950 Wasted Time: 0,8140).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01500683ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01501196ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3230 Wasted Time: 0,8070).
+t=01502005ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01502343ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01503147ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01683351ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 7 6]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 9.
+t=01561773ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,3110 Wasted Time: 0,8030).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01562578ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01563134ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3660 Wasted Time: 0,8100).
+t=01563944ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01564355ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01565161ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01745370ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 9 8]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 10.
+t=01569822ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2970 Wasted Time: 0,8100).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01570633ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01571242ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,4170 Wasted Time: 0,8070).
+t=01572051ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01572554ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01573368ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01753599ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 10 9]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 8.
+t=01598137ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,1950 Wasted Time: 0,8030).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01598940ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01599533ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,3960 Wasted Time: 0,8030).
+t=01600338ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01600713ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01601521ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01781790ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 8 7]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 8.
+t=01627129ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,1560 Wasted Time: 0,8000).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01627931ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01628404ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,2840 Wasted Time: 0,8090).
+t=01629215ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01629548ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01630359ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01810555ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 8 7]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 8.
+t=01654995ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2200 Wasted Time: 0,8140).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01655811ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01656268ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,2600 Wasted Time: 0,8020).
+t=01657071ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01657379ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01658188ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01838374ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 8 7]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 8.
+t=01691933ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02ProductOne" ended with a "Pass" status (Duration: 6,2340 Wasted Time: 0,8090).
+Notify: Transaction "Trx03AddTOCar" started.
+t=01692744ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=01693382ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03AddTOCar" ended with a "Pass" status (Duration: 1,4540 Wasted Time: 0,8130).
+t=01694197ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=01694694ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04ProductTwo" started.
+t=01695505ms: Step 5: Click on Link Link started.    [MsgId: MMSG-205180]
+t=01875770ms: Error -205177: Step 5: Click on Link Link failed. Timed out.    Snapshot Info [MSH 8 7]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+
