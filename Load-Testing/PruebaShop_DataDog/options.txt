@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\SAGGA-SERVICIOS\Documents\VuGen\PruebaShop_DataDog
+-ID:\GitHub\Scripts-Automation\Load-Testing\PruebaShop_DataDog
 -IC:\Program Files (x86)\OpenText\LoadRunner\include
--ec:\users\sagga-servicios\documents\vugen\pruebashop_datadog\\logfile.log
-c:\users\sagga-servicios\documents\vugen\pruebashop_datadog\\combined_PruebaShop_DataDog.c
-c:\users\sagga-servicios\documents\vugen\pruebashop_datadog\\pre_cci.c
+-ed:\github\scripts-automation\load-testing\pruebashop_datadog\\logfile.log
+d:\github\scripts-automation\load-testing\pruebashop_datadog\\combined_PruebaShop_DataDog.c
+d:\github\scripts-automation\load-testing\pruebashop_datadog\\pre_cci.c

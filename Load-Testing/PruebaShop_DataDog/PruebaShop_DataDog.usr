@@ -65,7 +65,7 @@ vuser_end=1
 [TransactionsOrder]
 Order="Trx01-URL__*delimiter*__Trx02-Product-One__*delimiter*__Trx03-Add-To-Car__*delimiter*__Trx04-Product-Two__*delimiter*__Trx05-Add-To-Car-Two__*delimiter*__Trx06-Pay__*delimiter*__Trx07-Continue-Shopping"
 [StateManagement]
-LastReplayStatus=3
+LastReplayStatus=1
 [ActiveReplay]
 LastReplayedRunName=
 ActiveRunName=

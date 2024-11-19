@@ -5,7 +5,7 @@
 Action()
 {
 	lr_start_transaction("Trx01-URL");
-	truclient_step("1", "Navigate to http://34.134.200.203/", "snapshot=Action_1.inf");
+	truclient_step("1", "Navigate to http://34.133.71.87/", "snapshot=Action_1.inf");
 	lr_end_transaction("Trx01-URL",0);
 	lr_start_transaction("Trx02-Product-One");
 	truclient_step("2", "Click on Link Link", "snapshot=Action_2.inf");
