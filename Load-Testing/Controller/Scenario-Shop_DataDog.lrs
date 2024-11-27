@@ -21,20 +21,20 @@ Description=
 Hosts=1
 Scripts=1
 Groups=1
-Vusers=5
+Vusers=8
 Tranzactions=0
 Rendezvous=0
-Result_file=D:\GitHub\Scripts-Automation\Load-Testing\Results\Resultado_3\Resultado_3.lrr
-ResCleanName=Resultado_3
+Result_file=D:\GitHub\Scripts-Automation\Load-Testing\Results\Resultado_t1\Resultado_t1.lrr
+ResCleanName=Resultado_t1
 ResSymName=
 DEFAULT_NFS_LESS_MODE=1
-AutoSetResults=1
+AutoSetResults=0
 AutoOverwriteResults=0
-BaseResultsName=Resultado_
+BaseResultsName=Resultado_t1
 MaxVuserSeedNumberUsed=0
 PlannedNumOfVusers=1
-PrivatePlannedNumOfVusers=8
-ManualControlDistributionType=1
+PrivatePlannedNumOfVusers=0
+ManualControlDistributionType=-1
 ManualControlAutoAddVusers=1
 Tranzactions=0
 Vusers=8
@@ -166,7 +166,7 @@ VuQuitTO=120
 {HostChief
 
 {localhost
-PLATFORM=Windows 11
+PLATFORM=Windows
 IS_REMOTE_LOGIN=0
 REMOTE_LOGIN=
 IS_LOCAL_LOGIN=0
@@ -206,7 +206,7 @@ ScriptType=14
 Path=D:\GitHub\Scripts-Automation\Load-Testing\PruebaShop_DataDog\PruebaShop_DataDog.usr
 EmulatedLocation=None
 NVAnalytics=0
-Config=[TruClient2]\r\nWindowHeight="1024"\r\nLogHttpResponseHeaders="0"\r\nExceptionProxyOverride=""\r\nReplaySnapshotsMode="3"\r\nMinTimeRandomLimitValue="3"\r\nLogAutNonError="0"\r\nSnapshotsFullPage="0"\r\nLogHttpRequestBody="0"\r\nMinTimeEnableRandomLimit="0"\r\nActionOnError="1"\r\nRecordedWinOuterHeight="768"\r\nNotSameProxyForAll="0"\r\nWindowWidth="1280"\r\nHTTPProxyServer=""\r\nPaintWindowsInLoad="0"\r\nProxyServer=""\r\nMinTimeRandomHigh="150"\r\nNetworkEndThreshold="150"\r\nStepTimeout="90"\r\nSupportOption1=""\r\nSupportOption3=""\r\nSupportOption2=""\r\nTypingInterval="350"\r\nSupportOption5=""\r\nLogHttpRequestHeaders="0"\r\nSupportOption4=""\r\nLogErrorsWarningsOnlyInStandard="0"\r\nBrowserName="Chrome"\r\nOmitCatchStepErrors="0"\r\nUseRecordedDuration="0"\r\nMinTimeApplyWaitStep="0"\r\nMinTimeRandomLow="50"\r\nSimulateNewUser="1"\r\nLogAutError="0"\r\nIncludeTimestampsInUserLog="1"\r\nRecordedWinInnerHeight="673"\r\nRecordedWinInnerWidth="750"\r\nMinTimeEnableRandom="0"\r\nSecureProxyServer=""\r\nLogHttpTrace="0"\r\nAutomaticTransactions="0"\r\nApplyWinSizeByUser="0"\r\nStepPacingInterval="800"\r\nProxyType="5"\r\nLogHttpResponseBody="0"\r\nAutoConfigURL=""\r\nRecordedWinOuterWidth="766"\r\nLocalProxyOverride="0"\r\nObjectTimeout="20"\r\nCustomUserAgent=""\r\n[Log]\r\nMsgClassParameters="1"\r\nAutoLogBufferSize="1"\r\nLogOptions="LogBrief"\r\nIncludeEnvInfo="1"\r\nMsgClassFull="1"\r\nAutoLog=1\r\nMsgClassData="1"\r\n[General]\r\nDefaultRunLogic=uspeyB.109\r\nAutomaticTransactions="0"\r\nUseThreads="1"\r\n[FILTERS]\r\nIncludeFiltersInList=""\r\nExcludeFiltersInList=""\r\nFilterType="1"\r\n[ModemSpeed]\r\nModemSpeedUpload=""\r\nModemSpeedDownload=""\r\nModemSpeedMode="1"\r\nModemSpeedDownloadAndUpload=""\r\n[ThinkTime]\r\nOptions=RECORDED\r\n
+Config=[TruClient2]\r\nWindowHeight="1024"\r\nLogHttpResponseHeaders="0"\r\nExceptionProxyOverride=""\r\nReplaySnapshotsMode="3"\r\nMinTimeRandomLimitValue="3"\r\nLogAutNonError="0"\r\nSnapshotsFullPage="0"\r\nLogHttpRequestBody="0"\r\nMinTimeEnableRandomLimit="0"\r\nActionOnError="1"\r\nRecordedWinOuterHeight="768"\r\nNotSameProxyForAll="0"\r\nWindowWidth="1280"\r\nHTTPProxyServer=""\r\nPaintWindowsInLoad="0"\r\nProxyServer=""\r\nMinTimeRandomHigh="150"\r\nNetworkEndThreshold="150"\r\nStepTimeout="90"\r\nSupportOption1=""\r\nSupportOption3=""\r\nSupportOption2=""\r\nTypingInterval="350"\r\nSupportOption5=""\r\nLogHttpRequestHeaders="0"\r\nSupportOption4=""\r\nLogErrorsWarningsOnlyInStandard="0"\r\nBrowserName="Chrome"\r\nOmitCatchStepErrors="0"\r\nUseRecordedDuration="0"\r\nMinTimeApplyWaitStep="0"\r\nMinTimeRandomLow="50"\r\nSimulateNewUser="1"\r\nLogAutError="0"\r\nIncludeTimestampsInUserLog="1"\r\nRecordedWinInnerHeight="673"\r\nRecordedWinInnerWidth="750"\r\nMinTimeEnableRandom="0"\r\nSecureProxyServer=""\r\nLogHttpTrace="0"\r\nAutomaticTransactions="0"\r\nApplyWinSizeByUser="0"\r\nStepPacingInterval="800"\r\nProxyType="5"\r\nLogHttpResponseBody="0"\r\nAutoConfigURL=""\r\nRecordedWinOuterWidth="766"\r\nLocalProxyOverride="0"\r\nObjectTimeout="20"\r\nCustomUserAgent=""\r\n[Log]\r\nMsgClassParameters="1"\r\nAutoLogBufferSize="1"\r\nLogOptions="LogBrief"\r\nIncludeEnvInfo="1"\r\nMsgClassFull="1"\r\nAutoLog=1\r\nMsgClassData="1"\r\n[General]\r\nDefaultRunLogic=uspL9m.691\r\nAutomaticTransactions="0"\r\nUseThreads="1"\r\n[FILTERS]\r\nIncludeFiltersInList=""\r\nExcludeFiltersInList=""\r\nFilterType="1"\r\n[ModemSpeed]\r\nModemSpeedUpload=""\r\nModemSpeedDownload=""\r\nModemSpeedMode="1"\r\nModemSpeedDownloadAndUpload=""\r\n[ThinkTime]\r\nOptions=RECORDED\r\n
 ConfigUsp=[Profile Actions]\r\nMercIniTreeFather=""\r\nMercIniTreeSectionName="Profile Actions"\r\nProfile Actions name=vuser_init,Action,Lib-View,vuser_end\r\n[RunLogicEndRoot]\r\nMercIniTreeFather=""\r\nMercIniTreeSectionName="RunLogicEndRoot"\r\nMercIniTreeSons="vuser_end"\r\nName="End"\r\nRunLogicActionOrder="vuser_end"\r\nRunLogicActionType="VuserEnd"\r\nRunLogicNumOfIterations="1"\r\nRunLogicObjectKind="Group"\r\nRunLogicRunMode="Sequential"\r\n[RunLogicEndRoot:vuser_end]\r\nMercIniTreeFather="RunLogicEndRoot"\r\nMercIniTreeSectionName="vuser_end"\r\nName="vuser_end"\r\nRunLogicActionType="VuserEnd"\r\nRunLogicObjectKind="Action"\r\n[RunLogicInitRoot]\r\nMercIniTreeFather=""\r\nMercIniTreeSectionName="RunLogicInitRoot"\r\nMercIniTreeSons="vuser_init"\r\nName="Init"\r\nRunLogicActionOrder="vuser_init"\r\nRunLogicActionType="VuserInit"\r\nRunLogicNumOfIterations="1"\r\nRunLogicObjectKind="Group"\r\nRunLogicRunMode="Sequential"\r\n[RunLogicInitRoot:vuser_init]\r\nMercIniTreeFather="RunLogicInitRoot"\r\nMercIniTreeSectionName="vuser_init"\r\nName="vuser_init"\r\nRunLogicActionType="VuserInit"\r\nRunLogicObjectKind="Action"\r\n[RunLogicRunRoot]\r\nMercIniTreeFather=""\r\nMercIniTreeSectionName="RunLogicRunRoot"\r\nMercIniTreeSons="Action"\r\nName="Run"\r\nRunLogicActionOrder="Action"\r\nRunLogicActionType="VuserRun"\r\nRunLogicAfterPaceMax="90"\r\nRunLogicAfterPaceMin="60"\r\nRunLogicNumOfIterations="1"\r\nRunLogicObjectKind="Group"\r\nRunLogicPaceConstAfterTime="60"\r\nRunLogicPaceConstTime="60"\r\nRunLogicPaceType="Asap"\r\nRunLogicRandomPaceMax="90"\r\nRunLogicRandomPaceMin="60"\r\nRunLogicRunMode="Sequential"\r\n[RunLogicRunRoot:Action]\r\nMercIniTreeFather="RunLogicRunRoot"\r\nMercIniTreeSectionName="Action"\r\nName="Action"\r\nRunLogicActionType="VuserRun"\r\nRunLogicObjectKind="Action"\r\n
 Param=
 TDPath=
@@ -216,11 +216,11 @@ Platform=All
 AstraSubType=0
 Trans=Trx05-Add-To-Car-Two
 Trans=Trx01-URL
-Trans=Trx06-Pay
 Trans=Trx07-Continue-Shopping
+Trans=Trx06-Pay
 Trans=Trx03-Add-To-Car
-Trans=Trx04-Product-Two
 Trans=Trx02-Product-One
+Trans=Trx04-Product-Two
 }
 }
 
@@ -228,7 +228,25 @@ Trans=Trx02-Product-One
 
 {PruebaShop_DataDog
 
-{16
+{4
+5=pruebashop_datadog
+9=localhost
+SEED_NUM=0
+}
+
+{3
+5=pruebashop_datadog
+9=localhost
+SEED_NUM=0
+}
+
+{2
+5=pruebashop_datadog
+9=localhost
+SEED_NUM=0
+}
+
+{1
 5=pruebashop_datadog
 9=localhost
 SEED_NUM=0
@@ -1905,7 +1923,7 @@ MachinesCount=IntV1|0
 }
 
 {ScenarioDiagnostics
-XMLData=<Mediators distribution = "1" enabled= "0" ><Mediator type= "SARM" enabled= "0" ><Machine name = "" type = "Win2000" ><Connection><Firewall enabled="0" listener=""/></Connection></Machine><TOPOLOGY></TOPOLOGY></Mediator><Mediator type= "OracleDB" enabled= "0" ><Machine name = "" type = "Win2000" ><Connection><Firewall enabled="0" listener=""/></Connection></Machine><TOPOLOGY></TOPOLOGY></Mediator><Mediator type= "WebPage" enabled= "1" ></Mediator><Mediator type= "J2EE" enabled= "0" ></Mediator><Mediator type= "SiebelDB" enabled= "0" ><Machine name = "" type = "Win2000" ><Connection><Firewall enabled="0" listener=""/></Connection></Machine><TOPOLOGY></TOPOLOGY></Mediator><Mediator type="SAP" enabled="0"><Machine name="" type="Win2000"><Connection><Firewall enabled="0" listener=""/></Connection></Machine><TOPOLOGY><SERVER host="" instance="" RouterString=""><LOGIN username="" password="673e0ecfe" client_num=""/></SERVER></TOPOLOGY></Mediator></Mediators>
+XMLData=<Mediators distribution = "1" enabled= "0" ><Mediator type= "SARM" enabled= "0" ><Machine name = "" type = "Win2000" ><Connection><Firewall enabled="0" listener=""/></Connection></Machine><TOPOLOGY></TOPOLOGY></Mediator><Mediator type= "OracleDB" enabled= "0" ><Machine name = "" type = "Win2000" ><Connection><Firewall enabled="0" listener=""/></Connection></Machine><TOPOLOGY></TOPOLOGY></Mediator><Mediator type= "WebPage" enabled= "1" ></Mediator><Mediator type= "J2EE" enabled= "0" ></Mediator><Mediator type= "SiebelDB" enabled= "0" ><Machine name = "" type = "Win2000" ><Connection><Firewall enabled="0" listener=""/></Connection></Machine><TOPOLOGY></TOPOLOGY></Mediator><Mediator type="SAP" enabled="0"><Machine name="" type="Win2000"><Connection><Firewall enabled="0" listener=""/></Connection></Machine><TOPOLOGY><SERVER host="" instance="" RouterString=""><LOGIN username="" password="673cf932e" client_num=""/></SERVER></TOPOLOGY></Mediator></Mediators>
 }
 
 {ScenarioSchedulerConfig
@@ -1939,13 +1957,13 @@ XMLData=<Mediators distribution = "1" enabled= "0" ><Mediator type= "SARM" enabl
                   <Count>1</Count>
                   <Interval>15</Interval>
                 </Batch>
-                <TotalVusersNumber>5</TotalVusersNumber>
+                <TotalVusersNumber>8</TotalVusersNumber>
               </RampUp>
               <Duration>
                 <StartCondition>
                   <PrevAction />
                 </StartCondition>
-                <RunFor>1200</RunFor>
+                <RunFor>120</RunFor>
               </Duration>
               <RampDownAll>
                 <StartCondition>
