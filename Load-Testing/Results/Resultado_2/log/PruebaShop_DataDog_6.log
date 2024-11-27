@@ -1,0 +1,155 @@
+Start auto log messages stack - Iteration 3.
+t=00175917ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00176702ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00178737ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00179563ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00181087ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00181966ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00202003ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 3 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 5.
+t=00261931ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00262735ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00264789ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00265591ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00269897ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00270708ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00290805ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 5 1]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 6.
+t=00317860ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00318663ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00320695ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00321489ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00322950ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00323757ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00343931ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 6 2]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 7.
+t=00370004ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00370808ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00372922ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00373648ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00376854ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00377656ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00398366ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 7 3]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 8.
+t=00399976ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00399979ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00490353ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. Timed out.    Snapshot Info [MSH 8 4]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 9.
+t=00492467ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00492469ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00502614ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_NETWORK_CHANGED at http://34.133.71.87/    Snapshot Info [MSH 9 5]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 10.
+t=00504836ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00504842ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00505520ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 10 6]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 11.
+t=00508104ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00508107ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00508748ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 11 7]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 12.
+t=00510782ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00510786ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00511350ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 12 8]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 13.
+t=00513959ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00513967ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00514497ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 13 9]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 14.
+t=00517490ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00517514ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00518184ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 14 10]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 15.
+t=00521567ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00521574ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00522213ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 15 11]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 16.
+t=00525537ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00525544ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00526012ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 16 12]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 17.
+t=00529531ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00529534ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00529979ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 17 13]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 18.
+t=00540393ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00540401ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00640431ms: Warning -205179: Failed to generate error snapshot. Error: Timed out.    [MsgId: MWAR-205179]
+t=00640435ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. Timed out.    Snapshot Info [MSH 18 14]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 19.
+t=00906526ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00907338ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00909443ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00910270ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00942313ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00943120ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00963915ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 19 15]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 20.
+t=01224267ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=01225095ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=01227166ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=01228010ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=01259761ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=01260584ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=01280774ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 20 16]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 21.
+t=01537259ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=01538070ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=01540120ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=01540933ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=01572749ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=01573561ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=01593699ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 21 17]    [MsgId: MERR-205177]
+End auto log messages stack.
+

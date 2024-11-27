@@ -1,54 +1,54 @@
-Virtual User Script started at : 2024-11-19 12:09:39
-TruClient Replay (build 0164) for LoadRunner Professional 2024.3.0, build 0200. OS: Windows 11, Browser: Chrome 131.0.6778.70, initialized on 2024/11/19 at 12:09:35 (1732036175,480s)
+Virtual User Script started at : 2024-11-27 13:10:20
+TruClient Replay (build 0164) for LoadRunner Professional 2024.3.0, build 0200. OS: Windows 11, Browser: Chrome 131.0.6778.86, initialized on 2024/11/27 at 13:10:17 (1732731017,905s)
 
-t=00004573ms: Action Init started.    [MsgId: MMSG-205180]
-t=00004576ms: Action Init ended.    [MsgId: MMSG-205180]
+t=00002566ms: Action Init started.    [MsgId: MMSG-205180]
+t=00002567ms: Action Init ended.    [MsgId: MMSG-205180]
 Running Vuser...
 Starting iteration 1.
-t=00004902ms: Action Action started.    [MsgId: MMSG-205180]
+t=00002693ms: Action Action started.    [MsgId: MMSG-205180]
 Notify: Transaction "Trx01-URL" started.
-t=00004980ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
-t=00006103ms: Step 1: Navigate to http://34.133.71.87/ successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
-Notify: Transaction "Trx01-URL" ended with a "Pass" status (Duration: 2,0030 Wasted Time: 0,8000).
+t=00002795ms: Step 1: Navigate to http://34.133.139.146/ started.    [MsgId: MMSG-205180]
+t=00004006ms: Step 1: Navigate to http://34.133.139.146/ successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" ended with a "Pass" status (Duration: 2,1260 Wasted Time: 0,9460).
 Notify: Transaction "Trx02-Product-One" started.
-t=00007109ms: Step 2: Click on Link Link started.    [MsgId: MMSG-205180]
-t=00012384ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
-Notify: Transaction "Trx02-Product-One" ended with a "Pass" status (Duration: 6,2820 Wasted Time: 0,8070).
+t=00005024ms: Step 2: Click on Link Link started.    [MsgId: MMSG-205180]
+t=00010782ms: Step 2: Click on Link Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx02-Product-One" ended with a "Pass" status (Duration: 6,7740 Wasted Time: 1,3480).
 Notify: Transaction "Trx03-Add-To-Car" started.
-t=00013380ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
-t=00013665ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
-Notify: Transaction "Trx03-Add-To-Car" ended with a "Pass" status (Duration: 1,2860 Wasted Time: 0,8160).
-t=00014608ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
-t=00014831ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
-t=00015637ms: Step 5: Wait 3 Seconds started.    [MsgId: MMSG-205180]
-t=00018657ms: Step 5: Wait 3 Seconds successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00011835ms: Step 3: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00012343ms: Step 3: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx03-Add-To-Car" ended with a "Pass" status (Duration: 1,5510 Wasted Time: 1,0700).
+t=00013276ms: Step 4: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00013784ms: Step 4: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00014599ms: Step 5: Wait 3 Seconds started.    [MsgId: MMSG-205180]
+t=00017605ms: Step 5: Wait 3 Seconds successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
 Notify: Transaction "Trx04-Product-Two" started.
-t=00018733ms: Step 6: Click on Link DogNotebook Link started.    [MsgId: MMSG-205180]
-t=00024027ms: Step 6: Click on Link DogNotebook Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
-Notify: Transaction "Trx04-Product-Two" ended with a "Pass" status (Duration: 6,1710 Wasted Time: 0,8010).
-t=00024954ms: Step 7: Select 10 from Dog Notebook $19.99 The... ListBox started.    [MsgId: MMSG-205180]
-t=00025009ms: Step 7: Select 10 from Dog Notebook $19.99 The... ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00017693ms: Step 6: Click on Link DogNotebook Link started.    [MsgId: MMSG-205180]
+t=00023450ms: Step 6: Click on Link DogNotebook Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx04-Product-Two" ended with a "Pass" status (Duration: 6,6490 Wasted Time: 1,2830).
+t=00024416ms: Step 7: Select 10 from Dog Notebook $19.99 The... ListBox started.    [MsgId: MMSG-205180]
+t=00024597ms: Step 7: Select 10 from Dog Notebook $19.99 The... ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
 Notify: Transaction "Trx05-Add-To-Car-Two" started.
-t=00025896ms: Step 8: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
-t=00026237ms: Step 8: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
-Notify: Transaction "Trx05-Add-To-Car-Two" ended with a "Pass" status (Duration: 1,2270 Wasted Time: 0,8100).
-t=00027159ms: Step 9: Select January from Month ListBox started.    [MsgId: MMSG-205180]
-t=00027190ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
-t=00028005ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
-t=00030033ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+t=00025495ms: Step 8: Click on Add To Cart Button started.    [MsgId: MMSG-205180]
+t=00026025ms: Step 8: Click on Add To Cart Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx05-Add-To-Car-Two" ended with a "Pass" status (Duration: 1,4200 Wasted Time: 1,0140).
+t=00026959ms: Step 9: Select January from Month ListBox started.    [MsgId: MMSG-205180]
+t=00027172ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00027977ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00030212ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
 Notify: Transaction "Trx06-Pay" started.
-t=00030921ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
-t=00032102ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
-t=00032919ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
-t=00032992ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
-Notify: Transaction "Trx06-Pay" ended with a "Pass" status (Duration: 2,9610 Wasted Time: 1,6230).
+t=00031112ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00032798ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00033613ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00033882ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" ended with a "Pass" status (Duration: 3,6760 Wasted Time: 2,0100).
 Notify: Transaction "Trx07-Continue-Shopping" started.
-t=00034003ms: Step 13: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
-t=00034129ms: Step 13: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
-Notify: Transaction "Trx07-Continue-Shopping" ended with a "Pass" status (Duration: 1,1280 Wasted Time: 0,8050).
-t=00035044ms: Action Action ended.    [MsgId: MMSG-205180]
+t=00034895ms: Step 13: Click on Continue Shopping Link started.    [MsgId: MMSG-205180]
+t=00035240ms: Step 13: Click on Continue Shopping Link successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx07-Continue-Shopping" ended with a "Pass" status (Duration: 1,3630 Wasted Time: 1,0230).
+t=00036202ms: Action Action ended.    [MsgId: MMSG-205180]
 Ending iteration 1.
 Ending Vuser...
-t=00035049ms: Action End started.    [MsgId: MMSG-205180]
-t=00035051ms: Action End ended.    [MsgId: MMSG-205180]
+t=00036205ms: Action End started.    [MsgId: MMSG-205180]
+t=00036206ms: Action End ended.    [MsgId: MMSG-205180]
 Vuser Terminated.

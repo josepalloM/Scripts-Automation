@@ -1,0 +1,22 @@
+Start auto log messages stack - Iteration 1.
+t=01051010ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=01051829ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=01053280ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=01054098ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=01086335ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=01087462ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=01107631ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 2.
+t=01362489ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=01363306ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=01365161ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=01365969ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=01397758ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=01398566ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=01418719ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 2 1]    [MsgId: MERR-205177]
+End auto log messages stack.
+

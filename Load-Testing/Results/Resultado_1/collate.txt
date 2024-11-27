@@ -1,0 +1,5 @@
+[Diagnostics]
+Status=-1
+[Collate Recovery]
+Scenario=D:\GitHub\Scripts-Automation\Load-Testing\Controller\Scenario-Shop_DataDog.lrs
+Completed=0

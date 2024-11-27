@@ -1,0 +1,395 @@
+Start auto log messages stack - Iteration 3.
+t=00110427ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00111311ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00113936ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00114730ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00116687ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00117494ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00137726ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 3 0]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 4.
+t=00140540ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00140540ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00141190ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 4 1]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 5.
+t=00143111ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00143119ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00143906ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 5 2]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 6.
+t=00145500ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00145502ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00146287ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 6 3]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 7.
+t=00147920ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00147924ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00148713ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 7 4]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 8.
+t=00150365ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00150370ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00151147ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 8 5]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 9.
+t=00152954ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00152955ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00153777ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 9 6]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 10.
+t=00155537ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00155540ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00156289ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 10 7]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 11.
+t=00157874ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00157875ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00158657ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 11 8]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 12.
+t=00160284ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00160289ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00161069ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 12 9]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 13.
+t=00162698ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00162702ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00163085ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 13 10]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 14.
+t=00165717ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00165722ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00166262ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 14 11]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 15.
+t=00168631ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00168632ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00169636ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 15 12]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 16.
+t=00172341ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00172354ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00172890ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 16 13]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 17.
+t=00176359ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00176366ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00176958ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 17 14]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 18.
+t=00181850ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00181869ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00182457ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 18 15]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 19.
+t=00187223ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00187224ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00187655ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 19 16]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 20.
+t=00191334ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00191347ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00191957ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 20 17]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 21.
+t=00194727ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00194736ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00195190ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 21 18]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 22.
+t=00198018ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00198021ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00198979ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 22 19]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 23.
+t=00202124ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00202124ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00202719ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 23 20]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 24.
+t=00209603ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00209617ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00210206ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 24 21]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 25.
+t=00212162ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00212164ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00212988ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 25 22]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 26.
+t=00215099ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00215102ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00215944ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 26 23]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 27.
+t=00218382ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00218385ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00219241ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 27 24]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 28.
+t=00221774ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00221778ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00222601ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 28 25]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 29.
+t=00224833ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00224839ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00225706ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 29 26]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 30.
+t=00228425ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00228431ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00228781ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 30 27]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 31.
+t=00231712ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00231719ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00232151ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 31 28]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 32.
+t=00234902ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00234907ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00235644ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 32 29]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 33.
+t=00238288ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00238290ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00239131ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 33 30]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 34.
+t=00241786ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00241787ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00242231ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 34 31]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 35.
+t=00244572ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00244575ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00245351ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 35 32]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 36.
+t=00247373ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00247378ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00248176ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 36 33]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 37.
+t=00250525ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00250528ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00251356ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 37 34]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 38.
+t=00255277ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00255278ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00256093ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 38 35]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 39.
+t=00261812ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00261819ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00262338ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 39 36]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 40.
+t=00265683ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00265689ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00266207ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 40 37]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 41.
+t=00268484ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00268487ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00269238ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 41 38]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 42.
+t=00271327ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00271328ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00271754ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 42 39]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 43.
+t=00274375ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00274381ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00275293ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 43 40]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 44.
+t=00277610ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00277620ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00278398ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 44 41]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 45.
+t=00281021ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00281023ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00281852ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 45 42]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 46.
+t=00286948ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00286952ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00287853ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 46 43]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 47.
+t=00291699ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00291701ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00292228ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 47 44]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 48.
+t=00295739ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00295743ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00296152ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 48 45]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 49.
+t=00298921ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00298925ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00299878ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 49 46]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 50.
+t=00303717ms: Action Action started.    [MsgId: MMSG-205180]
+Notify: Transaction "Trx01-URL" started.
+t=00303730ms: Step 1: Navigate to http://34.133.71.87/ started.    [MsgId: MMSG-205180]
+t=00304563ms: Error -205177: Step 1: Navigate to http://34.133.71.87/ failed. net::ERR_ADDRESS_UNREACHABLE at http://34.133.71.87/    Snapshot Info [MSH 50 47]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 51.
+t=00360566ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00361385ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00363495ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00364287ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00367653ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00368454ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00388647ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 51 48]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 52.
+t=00418605ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00419412ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00421485ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00422292ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00423810ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00424618ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00444849ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 52 49]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 53.
+t=00475403ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00476216ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00478257ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00479063ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00480345ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00481159ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00501605ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 53 50]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 54.
+t=00533774ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00534590ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00536658ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00537470ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00539067ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00539816ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00560113ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 54 51]    [MsgId: MERR-205177]
+End auto log messages stack.
+
+Start auto log messages stack - Iteration 59.
+t=00731657ms: Step 9: Select January from Month ListBox successfully completed with End Event "Action Completed".    [MsgId: MMSG-205180]
+t=00732467ms: Step 10: Select 2027 from Year ListBox started.    [MsgId: MMSG-205180]
+t=00734533ms: Step 10: Select 2027 from Year ListBox successfully completed with End Event "Step Network Completed".    [MsgId: MMSG-205180]
+Notify: Transaction "Trx06-Pay" started.
+t=00735348ms: Step 11: Click on Place Order Button started.    [MsgId: MMSG-205180]
+t=00737226ms: Step 11: Click on Place Order Button successfully completed with End Event "Document Loaded".    [MsgId: MMSG-205180]
+t=00738033ms: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 started.    [MsgId: MMSG-205180]
+t=00758215ms: Error -205177: Step 12: Verify if Your order is complete! Heading's VisibleText Contain                         ...                 failed. Target object was not found.    Snapshot Info [MSH 59 52]    [MsgId: MERR-205177]
+End auto log messages stack.
+
