@@ -29,9 +29,15 @@
     <FileEntry Name="mdrv.log" Filter="1" />
     <FileEntry Name="mdrv1rF.67.log" Filter="1" />
     <FileEntry Name="mdrv2xT.771.log" Filter="1" />
+    <FileEntry Name="mdrv8mn.543.log" Filter="1" />
     <FileEntry Name="mdrv9t1.435.log" Filter="1" />
+    <FileEntry Name="mdrvdk3.709.log" Filter="1" />
     <FileEntry Name="mdrvhZ7.583.log" Filter="1" />
+    <FileEntry Name="mdrvmrW.23.log" Filter="1" />
+    <FileEntry Name="mdrvPv7.893.log" Filter="1" />
     <FileEntry Name="mdrvtTh.459.log" Filter="1" />
+    <FileEntry Name="mdrvvVO.107.log" Filter="1" />
+    <FileEntry Name="mdrvxax.615.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />
@@ -46,5 +52,6 @@
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
     <FileEntry Name="results\" Filter="1" />
+    <FileEntry Name="resultSnap\" Filter="1" />
   </GeneralFiles>
 </VugenScriptMetadata>
